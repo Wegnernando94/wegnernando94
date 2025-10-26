@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/M9gbBkK8tsV3i/giphy.gif" width="100"/>
   <h1>Olá, eu sou o Fernando Wegner 👋</h1>
   
@@ -45,6 +45,6 @@
 <div align="center">
   <a href="https://github.com/Wegnernando94/">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Wegnernando94&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Estatísticas do GitHub de Fernando Wegner" />
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wegnernando94&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800&all_commits=true" alt="Linguagens mais usadas por Fernando Wegner" />
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wegnernando94&layout=compact&langs_count=7&theme=dracula&cache_seconds=0&include_all_commits=true" alt="Linguagens mais usadas por Fernando Wegner" />
   </a>
 </div>
