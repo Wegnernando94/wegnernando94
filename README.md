@@ -49,7 +49,7 @@
 
   ---
  <h2>📈 Estatísticas & Interesses</h2>
-  
+<p align="center">
 <a href="https://github.com/Wegnernando94/">
     <img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=Wegnernando94&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=0" alt="Estatísticas do GitHub de Fernando Wegner" />
   </a>
