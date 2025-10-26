@@ -17,15 +17,15 @@ jobs:
       # 1. Checkout do Repositório
       - uses: actions/checkout@v4
       
-      # 2. Gera o SVG do Spotify
+      # 2. Gera o SVG do Spotify (URL CORRIGIDA)
       - name: Generate Spotify Card SVG
-        uses: adriacabeza/spotify-box@v2
+        uses: spotify-box/spotify-box@v2 # <-- CORREÇÃO APLICADA AQUI
         with:
           spotify_client_id: ${{ secrets.SPOTIFY_CLIENT_ID }}
           spotify_client_secret: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
           spotify_refresh_token: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
-          file_name: spotify-card.svg # O nome do arquivo SVG na raiz
-          limit: 10 # Limite de músicas (opcional)
+          file_name: spotify-card.svg 
+          limit: 10 
 
       # 3. Commit e Push do novo SVG gerado
       - name: Commit and Push
