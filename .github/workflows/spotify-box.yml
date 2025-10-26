@@ -17,9 +17,9 @@ jobs:
       # 1. Checkout do Repositório
       - uses: actions/checkout@v4
       
-      # 2. Gera o SVG do Spotify (URL CORRIGIDA)
+      # 2. Gera o SVG do Spotify (URL CORRIGIDA FINALMENTE)
       - name: Generate Spotify Card SVG
-        uses: spotify-box/spotify-box@v2 # <-- CORREÇÃO APLICADA AQUI
+        uses: Rigellute/spotify-box@v2 # <--- CORREÇÃO APLICADA AQUI
         with:
           spotify_client_id: ${{ secrets.SPOTIFY_CLIENT_ID }}
           spotify_client_secret: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
