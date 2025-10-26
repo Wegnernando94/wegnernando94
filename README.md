@@ -9,7 +9,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
     <img src="https://komarev.com/ghpvc/?username=Wegnernando94&style=for-the-badge&color=008080" alt="Profile views" />
-    <img src="https://img.shields.io/badge/Status-Buscando_Oportunidades-FF6F00?style=for-the-badge&logo=git" alt="Hiring Status"/>
+    <img src="https://img.shields.io/badge/-FF6F00?style=for-the-badge&logo=git" alt="Hiring Status"/>
   </p>
   
   ---
