@@ -42,26 +42,11 @@
 
   <h2>📈 Estatísticas & Interesses</h2>
   
-  <div align="center">
+<div align="center">
   <a href="https://github.com/Wegnernando94/">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wegnernando94&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800" alt="Linguagens mais usadas por Fernando Wegner" />
-    
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Wegnernando94&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Estatísticas do GitHub de Fernando Wegner" />
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wegnernando94&layout=compact&langs_count=7&theme=cobalt&cache_seconds=1800" alt="Linguagens mais usadas por Fernando Wegner" />
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Wegnernando94&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Estatísticas do GitHub de Fernando Wegner" />
   </a>
 </div>
-
-  <br>
-
-  <h4>🎶 O que estou ouvindo agora (Configuração pendente)</h4>
-  <a href="URL DO SEU SPOTIFY">
-    <img src="https://spotify-recently-played-card.vercel.app/api?user=SEU_USUARIO_SPOTIFY" alt="Spotify Recently Played" />
-  </a>
-  
-  <br>
-  <br>
-
-  <p>
-    Feito com ✨ e GitHub Actions
-  </p>
 
 </div>
