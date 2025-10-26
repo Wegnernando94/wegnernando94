@@ -5,7 +5,7 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
-# Permissões necessárias para o deploy oficial do Pages
+# Permissões corrigidas e necessárias para o deploy oficial do Pages
 permissions:
   contents: read 
   pages: write   
@@ -26,13 +26,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # 2. Snake Animation - GERA O GIF COM PALETA DE CORES
+      # 2. Snake Animation - GERA APENAS O GIF (Mais estável)
       - name: Generate Snake GIF
-        uses: Platane/snk/gif-only@v3  # Usando a versão mais estável para GIF
+        uses: Platane/snk/gif-only@v3  
         id: snake-gif
         with:
           github_user_name: Wegnernando94 
-          # Outputs para gerar o GIF na pasta dist, forçando a paleta GitHub (fundo)
+          # Força a geração do GIF com a paleta GitHub (para ter o calendário de fundo)
           outputs: |
             dist/github-contribution-grid-snake.gif?palette=github
       
