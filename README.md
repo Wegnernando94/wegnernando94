@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBkK8tsV3i/giphy.gif" width="100"/>
+  <img src="[https://media.giphy.com/media/M9gbBkK8tsV3i/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2F5YnRxeWp5enM3Y3p1cTJtcTJhZWlmcW02N251cTJwYjUzMGdxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)" width="100"/>
+  
   <h1>Olá, eu sou o Fernando Wegner 👋</h1>
   
   <h3 align="center">QA Analyst | Automação | Devops | Cloud Computing</h3>
