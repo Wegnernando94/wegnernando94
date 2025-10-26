@@ -51,4 +51,9 @@
   </a>
 </div>
 
+---
+<div align="center">
+  <h3>✨ Inspiração do Dia</h3>
+  <img src="https://github-readme-quotes.bay.vercel.app/quote" alt="Dynamic Quote" />
+</div>
 
