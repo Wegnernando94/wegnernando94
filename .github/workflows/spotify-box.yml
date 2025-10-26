@@ -1,0 +1,37 @@
+name: Spotify Box
+
+on:
+  # Roda a cada 30 minutos para manter o card atualizado
+  schedule:
+    - cron: '*/30 * * * *'
+  # Permite execução manual
+  workflow_dispatch:
+
+permissions:
+  contents: write # Permissão para subir o SVG
+
+jobs:
+  update-box:
+    runs-on: ubuntu-latest
+    steps:
+      # 1. Checkout do Repositório
+      - uses: actions/checkout@v4
+      
+      # 2. Gera o SVG do Spotify
+      - name: Generate Spotify Card SVG
+        uses: adriacabeza/spotify-box@v2
+        with:
+          spotify_client_id: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          spotify_client_secret: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          spotify_refresh_token: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+          file_name: spotify-card.svg # O nome do arquivo SVG na raiz
+          limit: 10 # Limite de músicas (opcional)
+
+      # 3. Commit e Push do novo SVG gerado
+      - name: Commit and Push
+        run: |
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git add spotify-card.svg
+          git commit -m "feat: Update Spotify Card" || echo "No changes to commit"
+          git push
