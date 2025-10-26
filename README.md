@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2F5YnRxeWp5enM3Y3p1cTJtcTJhZWlmcW02N251cTJwYjUzMGdxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="100px" alt="Pessoa digitando código"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2F5YnRxeWp5enM3Y3p1cTJtcTJhZWlmcW02N251cTJwYjUzMGdxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="500px" alt="Pessoa digitando código"/>
 </div>
   
   <h1>Olá, eu sou o Fernando Wegner 👋</h1>
