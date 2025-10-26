@@ -44,16 +44,13 @@
   ---
  <h2>📈 Estatísticas & Interesses</h2>
   
-<div align="center">
-  <a href="https://github.com/Wegnernando94/">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Wegnernando94&layout=compact&langs_count=7&theme=dark" alt="Linguagens mais usadas por Fernando Wegner" />
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Wegnernando94&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=0" alt="Estatísticas do GitHub de Fernando Wegner" />
+<a href="https://github.com/Wegnernando94/">
+    <img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=Wegnernando94&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=0" alt="Estatísticas do GitHub de Fernando Wegner" />
   </a>
-</div>
 
 ---
 <div align="center">
-  <h3>✨ Inspiração do Dia</h3>
-  <img src="https://github-readme-quotes.bay.vercel.app/quote" alt="Dynamic Quote" />
-</div>
+    <h3>✨ Inspiração do Dia</h3>
+    <img src="https://github-readme-quotes.bay.vercel.app/quote?quoteCategory=motivational&theme=dracula" alt="Motivational Quote" />
+  </div>
 
