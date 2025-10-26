@@ -1,12 +1,11 @@
 name: Generate Datas
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  schedule: # executa a cada 12 horas
+    - cron: "0 */12 * * *" # Ajustei a cron para começar em minuto 0
   workflow_dispatch:
 
-# CORREÇÃO CRÍTICA: Adiciona permissão de escrita para o GITHUB_TOKEN
-# Isso permite que o bot faça o push para a branch 'output'
+# ESSA É A CORREÇÃO PRINCIPAL: Dá permissão de escrita ao GITHUB_TOKEN
 permissions:
   contents: write
 
@@ -19,15 +18,14 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          # ATENÇÃO: Use o seu nome de usuário (Wegnernando94) se você quer suas próprias contribuições
-          # Se você realmente queria o de 'rafaballerini', apenas mantenha 'rafaballerini'
+          # Use o seu nome de usuário correto (Wegnernando94)
           github_user_name: Wegnernando94 
           svg_out_path: dist/github-contribution-grid-snake.svg
 
+      # Deploy para o GitHub Pages (branch 'output')
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
           build_dir: dist
         env:
-          # O token já está definido na variável de ambiente do GITHUB_TOKEN
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
