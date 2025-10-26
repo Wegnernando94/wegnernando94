@@ -17,15 +17,16 @@ jobs:
       # 1. Checkout do Repositório
       - uses: actions/checkout@v4
       
-      # 2. Gera o SVG do Spotify (URL CORRIGIDA FINALMENTE)
+      # 2. Gera o SVG do Spotify (USANDO O REPOSITÓRIO CORRETO)
       - name: Generate Spotify Card SVG
-        uses: Rigellute/spotify-box@v2 # <--- CORREÇÃO APLICADA AQUI
+        uses: shlee322/spotify-github-profile@main # <--- CORREÇÃO FINAL APLICADA AQUI
         with:
-          spotify_client_id: ${{ secrets.SPOTIFY_CLIENT_ID }}
-          spotify_client_secret: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
-          spotify_refresh_token: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+          client_id: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          client_secret: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          refresh_token: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
           file_name: spotify-card.svg 
-          limit: 10 
+          # Este novo repositório usa as chaves 'client_id' e 'refresh_token'
+          # sem o prefixo 'spotify_', então ajustamos para a sintaxe correta.
 
       # 3. Commit e Push do novo SVG gerado
       - name: Commit and Push
