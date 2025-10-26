@@ -5,7 +5,7 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
-# Permissões corrigidas e necessárias para o deploy oficial
+# Permissões corrigidas e necessárias para o deploy oficial do Pages
 permissions:
   contents: read 
   pages: write   
@@ -16,7 +16,7 @@ jobs:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     
-    # ADICIONAR ESTE BLOCO para atender ao requisito da actions/deploy-pages@v4
+    # Define o ambiente de deploy (requisito da actions/deploy-pages)
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -26,27 +26,28 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # 2. Snake Animation - Gera o SVG na pasta 'dist'
-      - name: Generate Snake SVG
+      # 2. Snake Animation - Gera o SVG E O GIF
+      - name: Generate Snake SVG and GIF
         uses: Platane/snk@master
         id: snake-gif
         with:
           github_user_name: Wegnernando94 
           svg_out_path: dist/github-contribution-grid-snake.svg
+          gif_out_path: dist/github-contribution-grid-snake.gif  # <-- NOVO: GERA O GIF
       
-      # 3. Configura o Node (Necessário para o Upload de Artefato)
+      # 3. Configura o Node (necessário para o Upload de Artefato)
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
           node-version: '20'
 
-      # 4. Upload do Artefato (o novo SVG)
+      # 4. Upload do Artefato (envia a pasta 'dist' contendo o GIF e o SVG)
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: 'dist' 
 
-      # 5. Deploy para o GitHub Pages
+      # 5. Deploy para o GitHub Pages (publica o artefato)
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
