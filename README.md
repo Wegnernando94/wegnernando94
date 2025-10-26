@@ -49,11 +49,4 @@
   </a>
 </div>
 
----
-
-<div id="header" align="center">
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&center=true&vCenter=true&width=500&lines=Garantindo+Qualidade+e+Segurança;Testes+Automatizados+(Cypress,+Appium);Análise+de+Vulnerabilidades+(Pentest);CI%2FCD+com+Jenkins+e+DevSecOps;Monitoramento+com+Grafana+e+Zabbix" alt="Typing SVG"/>
-  </p>
-</div>
 
