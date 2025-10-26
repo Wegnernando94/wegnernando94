@@ -5,16 +5,22 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
-# Permissão GLOBAL de escrita é NECESSÁRIA para o deploy
+# Permissões corrigidas e necessárias para o deploy oficial
 permissions:
-  contents: read # Permissão de leitura para o Checkout
-  pages: write   # Permissão de escrita para a Action de deploy oficial
-  id-token: write # Permissão para obter o token de autenticação
+  contents: read 
+  pages: write   
+  id-token: write 
 
 jobs:
   build:
     name: Jobs to update datas
     runs-on: ubuntu-latest
+    
+    # ADICIONAR ESTE BLOCO para atender ao requisito da actions/deploy-pages@v4
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
     steps:
       # 1. Checkout do Repositório
       - name: Checkout repository
@@ -38,7 +44,7 @@ jobs:
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: 'dist' # O diretório de onde o Pages será construído
+          path: 'dist' 
 
       # 5. Deploy para o GitHub Pages
       - name: Deploy to GitHub Pages
