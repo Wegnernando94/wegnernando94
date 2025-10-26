@@ -15,6 +15,12 @@
   </p>
   
   ---
+  <div align="center">
+    <h3>✨ Inspiração do Dia</h3>
+    <img src="https://readme-daily-quotes.vercel.app/api?theme=dracula&category=motivational" alt="Frase Motivacional Dinâmica" />
+  </div>
+
+  ---
   
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&center=true&vCenter=true&width=600&lines=Garantindo+Qualidade+e+Segurança;Testes+Automatizados+(Cypress,+Appium);CI%2FCD+com+Jenkins;Monitoramento+com+Grafana+e+Zabbix" alt="Typing SVG"/>
@@ -49,8 +55,5 @@
   </a>
 
 ---
-<div align="center">
-    <h3>✨ Inspiração do Dia</h3>
-    <img src="https://readme-daily-quotes.vercel.app/api?theme=dracula&category=motivational" alt="Frase Motivacional Dinâmica" />
-  </div>
+
 
