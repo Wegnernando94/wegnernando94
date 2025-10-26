@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBkK8tsV3i/giphy.gif" width="100"/>
   <h1>Olá, eu sou o Fernando Wegner 👋</h1>
   
-  <h3 align="center">QA Analyst | Automação | DevSecOps | Cloud Computing</h3>
+  <h3 align="center">QA Analyst | Automação | Devops | Cloud Computing</h3>
   
   <p align="center">
     <a href="https://www.linkedin.com/in/fernando-wegner-186235191/">
