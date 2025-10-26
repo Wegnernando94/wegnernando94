@@ -1,88 +1,76 @@
-<div align="center">
-  # Olá, sou o Fernando Wegner 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBkK8tsV3i/giphy.gif" width="100"/>
+  <h1>Olá, eu sou o Fernando 👋</h1>
   
-  ### 🧑‍💻 QA Analyst | Automação | Pentest | DevOps
+  <h3 align="center">QA Analyst | Automação | DevSecOps | Cloud Computing</h3>
   
   <p align="center">
-    <img src="https://img.shields.io/badge/QA_EXCELLENCE-009999?style=for-the-badge&logo=cypress&logoColor=white" alt="QA Excellence Badge"/>
-    <img src="https://img.shields.io/badge/CI/CD-FF6F00?style=for-the-badge&logo=jenkins&logoColor=white" alt="CI/CD Badge"/>
+    <a href="https://www.linkedin.com/in/fernando-wegner-186235191/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=Wegnernando94&style=for-the-badge&color=008080" alt="Profile views" />
+    <img src="https://img.shields.io/badge/Status-Contratando-2ECC71?style=for-the-badge" alt="Hiring Status"/>
   </p>
-  
-  ---
-  
-  <details>
-    <summary><h2>✨ Sobre a minha atuação</h2></summary>
-    <p align="left">
-      Sou um Analista de Qualidade de Software com foco em garantir a excelência e a segurança dos produtos. Minha experiência abrange:
-      <ul>
-        <li>**Automação Robusta:** Testes End-to-End (Cypress, Appium), API Testing (Postman), e Performance (K6, Jmeter).</li>
-        <li>**DevSecOps:** Integração de práticas de segurança e testes de penetração no pipeline de CI/CD (Jenkins).</li>
-        <li>**Segurança:** Experiência em Pentest, análise de vulnerabilidades com Kali Linux, Burp Suite e Frida.</li>
-        <li>**Monitoramento:** Análise de desempenho em produção utilizando Grafana e Zabbix.</li>
-        <li>**Tecnologias:** Proficiência em JavaScript, TypeScript, Java, e ambientes de teste isolados com Docker.</li>
-      </ul>
-    </p>
-  </details>
-  
-  ---
-
-  <h2>📚 Minhas Habilidades Técnicas</h2>
-  
-  <p>
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-    <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  </p>
-  
-  <h3>🚀 Ferramentas & Frameworks de QA/Automação</h3>
-  
-  <p>
-    <img alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white"/>
-    <img alt="Appium" src="https://img.shields.io/badge/Appium-000000?style=flat-square&logo=appium&logoColor=white"/>
-    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-    <img alt="JMeter" src="https://img.shields.io/badge/Jmeter-1A79C3?style=flat-square&logo=apache&logoColor=white"/>
-    <img alt="K6" src="https://img.shields.io/badge/k6-8051ff?style=flat-square&logo=k6&logoColor=white"/>
-    <img alt="TestComplete" src="https://img.shields.io/badge/TestComplete-0078D4?style=flat-square&logo=smartbear&logoColor=white"/>
-  </p>
-  
-  <h3>🔒 Segurança & DevOps</h3>
-  
-  <p>
-    <img alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-5C5C5C?style=flat-square&logo=kali-linux&logoColor=white"/>
-    <img alt="Burp Suite" src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white"/>
-    <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
-    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-    <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
-    <img alt="Zabbix" src="https://img.shields.io/badge/Zabbix-CC0000?style=flat-square&logo=zabbix&logoColor=white"/>
-    <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white"/>
-  </p>
-
-  ---
-
-  <h2>📈 Estatísticas e Desempenho</h2>
-
-  <a href="https://github.com/Wegnernando94/wegnernando94">
-    <img src="https://github-readme-stats.vercel.app/api?username=Wegnernando94&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  </a>
-  
-  <a href="https://github.com/Wegnernando94/wegnernando94">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wegnernando94&layout=compact&theme=dark" alt="Linguagens Mais Usadas" />
-  </a>
-  
-  <br/>
-  <br/>
-
-  <p align="center">
-    <img src="https://github.com/Wegnernando94/wegnernando94/raw/output/github-contribution-grid-snake.gif" alt="Snake animation" />
-  </p>
-  
 </div>
 
 ---
 
-## Próximas Ações
+<div align="center">
+  
+  <br>
 
-1.  **Copiar o Código:** Copie todo o bloco acima.
-2.  **Editar o README:** Vá para o seu repositório de perfil (`Wegnernando94/Wegnernando94`) e **substitua** o conteúdo do `README.md` por este código.
-3.  **Verificar a Cobrinha:** Certifique-se de que o *workflow* que gera o `github-contribution-grid-snake.gif` foi executado com sucesso e que o GIF está animado e com fundo. Ao posicionar a imagem da cobra no final da sua área de descrição, o GitHub será "forçado" a exibi-la na área do calendário, substituindo o calendário padrão e resolvendo seu problema de posicionamento.
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&center=true&vCenter=true&width=500&lines=Garantindo+Qualidade+e+Segurança;Testes+Automatizados+(Cypress,+Appium);Análise+de+Vulnerabilidades+(Pentest);CI%2FCD+com+Jenkins+e+DevSecOps;Monitoramento+com+Grafana+e+Zabbix" alt="Typing SVG"/>
+  </p>
+
+  <br>
+  
+  ## 📊 Desempenho no GitHub
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Wegnernando94&show_icons=true&theme=dark&include_all_commits=true&count_private=true&line_height=21" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wegnernando94&layout=compact&theme=dark&line_height=21" alt="Linguagens Mais Usadas" />
+
+  <br>
+  <br>
+  
+  <img src="https://github.com/Wegnernando94/wegnernando94/raw/output/github-contribution-grid-snake.gif" alt="Snake animation" />
+
+  <br>
+  <br>
+  
+  ## 🛠️ Stack & Ferramentas
+  
+  <p>
+    <img src="https://skillicons.dev/icons?i=ts,js,java,python,docker,kubernetes" alt="Languages and Tools" />
+  </p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=cypress,appium,postman,jenkins,azure,aws" alt="QA and DevOps Tools" />
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white" alt="Burp Suite Badge"/>
+    <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana Badge"/>
+    <img src="https://img.shields.io/badge/Zabbix-CC0000?style=flat-square&logo=zabbix&logoColor=white" alt="Zabbix Badge"/>
+    <img src="https://img.shields.io/badge/JMeter-1A79C3?style=flat-square&logo=apache&logoColor=white" alt="JMeter Badge"/>
+  </p>
+
+  ---
+
+  <h2>🎵 O que estou ouvindo agora</h2>
+  
+  <a href="URL DO SEU SPOTIFY">
+    <img src="https://spotify-recently-played-card.vercel.app/api?user=SEU_USUARIO_SPOTIFY" alt="Spotify Recently Played" />
+  </a>
+
+  <br>
+  <br>
+  
+  <p>
+    <a href="mailto:wegnernando@gmail.com">
+      <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://www.linkedin.com/in/fernando-wegner-186235191/">
+      <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/>
+    </a>
+  </p>
+
+</div>
