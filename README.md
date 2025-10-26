@@ -56,7 +56,7 @@
   <br>
 
   <p>
-    Feito com ✨ e **GitHub Actions**
+    Feito com ✨ e GitHub Actions
   </p>
 
 </div>
