@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 Minhas Contribuições
 # Aqui deve estar o código da imagem animada da cobrinha, mas pode estar faltando ou no lugar errado.
-...
+![Snake animation](https://github.com/Wegnernando94/wegnernando94/raw/output/github-contribution-grid-snake.gif)
