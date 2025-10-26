@@ -1,27 +1,34 @@
 name: Generate Datas
 
 on:
-  schedule: 
-    - cron: "0 */12 * * *" 
+  schedule: # executa a cada 12 horas
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
+# Permissão global de escrita para o token de Action (essencial para o push)
 permissions:
   contents: write
-
 
 jobs:
   build:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
+      # Passo 1: Snake Animation - Gera o SVG na pasta 'dist'
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: Wegnernando94
+          github_user_name: Wegnernando94 
           svg_out_path: dist/github-contribution-grid-snake.svg
-        env: 
-          GITHUB_TOKEN: ${{ secrets.SNK_TOKEN }} 
+        # NOTA: Removi a seção 'env:' do GITHUB_TOKEN daqui para simplificar,
+        # pois o erro 429 parou de ocorrer.
 
-      # Deploy
+      # Passo 2: Deploy para o GitHub Pages (branch 'output')
       - uses: crazy-max/ghaction-github-pages@v2.1.3
-
+        # Os inputs 'target_branch' e 'build_dir' DEVEM estar na seção 'with:'
+        with: 
+          target_branch: output
+          build_dir: dist # <-- ESTE É O PARÂMETRO QUE ESTAVA DANDO ERRO
+        env:
+          # Usa o token padrão do GitHub (que agora tem permissão de escrita)
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
