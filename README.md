@@ -51,6 +51,6 @@
 ---
 <div align="center">
     <h3>✨ Inspiração do Dia</h3>
-    <img src="https://github-readme-quotes.bay.vercel.app/quote?quoteCategory=motivational&theme=dracula" alt="Motivational Quote" />
+    <img src="https://readme-daily-quotes.vercel.app/api?theme=dracula&category=motivational" alt="Frase Motivacional Dinâmica" />
   </div>
 
