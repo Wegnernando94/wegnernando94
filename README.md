@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Minhas Contribuições
-![Snake animation](https://github.com/Wegnernando94/wegnernando94/raw/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Wegnernando94/wegnernando94/raw/output/github-contribution-grid-snake.gif)
