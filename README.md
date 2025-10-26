@@ -15,7 +15,7 @@
   ---
   
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&center=true&vCenter=true&width=800&lines=Garantindo+Qualidade+e+Segurança;Testes+Automatizados+(Cypress,+Appium);Análise+de+Vulnerabilidades+(Pentest);CI%2FCD+com+Jenkins+e+DevSecOps;Monitoramento+com+Grafana+e+Zabbix" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFEA&center=true&vCenter=true&width=800&linesGarantindo+Qualidade+e+Segurança;Testes+Automatizados+(Cypress,+Appium);Análise+de+Vulnerabilidades+(Pentest);CI%2FCD+com+Jenkins+e+DevSecOps;Monitoramento+com+Grafana+e+Zabbix" alt="Typing SVG"/>
   </p>
   
   <br>
