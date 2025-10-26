@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **Wegnernando94/wegnernando94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Minhas Contribuições
+![Snake animation](https://github.com/Wegnernando94/wegnernando94/raw/output/github-contribution-grid-snake.svg)
