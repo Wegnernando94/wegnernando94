@@ -1,4 +1,4 @@
-<!-- Last updated: November 09, 2025 -->
+<!-- Last updated: November 10, 2025 -->
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2F5YnRxeWp5enM3Y3p1cTJtcTJhZWlmcW02N251cTJwYjUzMGdxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="500px" alt="Pessoa digitando código"/>
 </div>
@@ -21,7 +21,7 @@
 
 ---
 <div align="center">
-  <h3>✨ Inspiração do Dia</h3>
+  <h3>✨ Inspiração do Dia (Atualiza a cada 24h)</h3>
   <blockquote>
     <!-- Quote atualizada diariamente via ZenQuotes API: START -->"The only way to do great work is to love what you do." — Steve Jobs<!-- END -->
   </blockquote>
@@ -29,14 +29,13 @@
 ---
 
 ## 🎯 **Sobre Mim**
-Analista de Qualidade de Software com sólida experiência em garantir excelência em produtos, atuando em testes manuais e automatizados. Plano de Testes, Análise de Sistemas e Automação QA. Desenvolvo integrações ágeis de práticas de qualidade em pipelines de CI/CD e monitoramento de ambientes em produção, sempre com foco em melhorias contínuas e entregas de alto valor.
+Analista de Qualidade de Software com sólida experiência em testes manuais/automação, análise de sistemas e integração de QA em CI/CD. Foco em qualidade ágil, monitoramento de produção e entregas de alto valor.
 
 ### 🏆 **Principais Conquistas**
-- 🎯 **Redução significativa** de defeitos em produção através de automação de testes
-- 💰 **Otimização de processos** que aceleram o time-to-market
-- ⚡ **Implementação de pipelines CI/CD** para releases mais ágeis
-- 💳 **Monitoramento proativo** com ferramentas como Grafana e Zabbix
-- 🏅 **Alta disponibilidade** em ambientes cloud (AWS, Azure)
+- 🎯 Redução de defeitos em produção via automação
+- ⚡ Pipelines CI/CD para releases ágeis
+- 💳 Monitoramento proativo com Grafana/Zabbix
+- 🏅 Alta disponibilidade em cloud (AWS/Azure)
 
 ## 🔍 **Principais Focos de Atuação**
 <div align="center">
@@ -46,7 +45,7 @@ Analista de Qualidade de Software com sólida experiência em garantir excelênc
       <td align="center"><img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o%20Web%20&%20Mobile-4ECDC4?style=for-the-badge&logo=robot&logoColor=white" width="150px"/></td>
     </tr>
     <tr>
-      <td align="center"><strong>Segurança & Pentest</strong><br>Testes de penetração, Kali Linux, Burp Suite, Frida</td>
+      <td align="center"><strong>Segurança & Pentest</strong><br>Kali Linux, Burp Suite, Frida</td>
       <td align="center"><strong>Automação Web & Mobile</strong><br>Cypress, Appium, Playwright, TestComplete</td>
     </tr>
     <tr>
@@ -60,38 +59,36 @@ Analista de Qualidade de Software com sólida experiência em garantir excelênc
   </table>
 </div>
 
-## 💼 **Experiência Profissional**
-### QA Pleno - Acelera Sistemas
-**Fev 2025 - Presente** | QA Acelera Sistemas e Automação QA Pleno na Vines, onde respondo por análises e produtos, com foco em automação de testes.
-
-- Automação de plataformas desktop (Delphi com TestComplete)
-- Automação de plataformas web (Cypress)
-- Validação de APIs utilizando Postman (API) e Cypress (E2E)
-- Validação de documentos mínimos para garantir integrações dos fluxos de software
-- Atuação em metodologias ágeis, participação de sprints e processos de etuplização
-- Geração de testes e issues no Jira (Azure DevOps)
-- Condução de verificações em banco de dados MySQL para validar lógica de projetos
-
-### QA Pleno
-**Mai 2024 - Fev 2025** | Garantia de qualidade de produtos por meio de análises abrangentes, combinando testes manuais e automatizados.
-
-- Execução de planos de teste funcionais, utilizando Postman (API) e Cypress (E2E)
-- Realização de testes de segurança e análise de vulnerabilidades com Kali Linux, Burp Suite e Frida
-- Monitoramento e análise de desempenho em produção com Grafana e Zabbix
-- Criação e modificação de scripts de teste com TypeScript, JavaScript e Appium
-
-### Mid-level Systems Analyst
-**Nov 2022 - Dez 2023** | Condução de testes manuais em colaboração com clientes finais para identificação e resolução de bugs.
-
-- Utilização de bancos de dados (SQL) para correção de bugs no lado do cliente
-- Documentação personalizada de defeitos com inclusão de prints e relatórios de NopCommerce
-- Atuação com metodologias ágeis para geração de backlogs e refatoração de bugs
-
-### Technical Support and Help-Desk Specialist
-**Dez 2022 - Mar 2023** | Utilização de SQL Server para atualizações e queries no servidor local do cliente.
-
-- Atuação com sistemas para capturas e exportações, repassando mudanças de TI
-- Monitoramento e verificação de sistema após atualizações
+## 💼 **Experiência Profissional** (Timeline)
+<div align="center">
+  <table>
+    <tr>
+      <th>Período</th>
+      <th>Cargo & Empresa</th>
+      <th>Principais Responsabilidades</th>
+    </tr>
+    <tr>
+      <td>Fev 2025 - Presente</td>
+      <td>QA Pleno - Acelera Sistemas (Vines)</td>
+      <td>• Automação desktop (Delphi/TestComplete) & web (Cypress)<br>• Validação APIs (Postman/E2E) & integrações<br>• Sprints ágeis, Jira/Azure DevOps & queries MySQL</td>
+    </tr>
+    <tr>
+      <td>Mai 2024 - Fev 2025</td>
+      <td>QA Pleno</td>
+      <td>• Testes funcionais/segurança (Postman, Cypress, Kali/Burp/Frida)<br>• Monitoramento produção (Grafana/Zabbix)<br>• Scripts TypeScript/JS/Appium</td>
+    </tr>
+    <tr>
+      <td>Nov 2022 - Dez 2023</td>
+      <td>Mid-level Systems Analyst</td>
+      <td>• Testes manuais & correções SQL para clientes<br>• Documentação defeitos (NopCommerce)<br>• Backlogs ágeis & refatoração bugs</td>
+    </tr>
+    <tr>
+      <td>Dez 2022 - Mar 2023</td>
+      <td>Technical Support/Help-Desk</td>
+      <td>• Queries/atualizações SQL Server<br>• Capturas/exportações sistemas TI<br>• Monitoramento pós-atualizações</td>
+    </tr>
+  </table>
+</div>
 
 ## 🛠️ **Stack & Ferramentas** (Competências Técnicas)
 <div align="center">
@@ -182,7 +179,5 @@ Total Commits: 169 | Stars: 0 | Forks: 0 | Open Issues/PRs: 0  <!-- Atualizado p
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
 </div>
 
-<!-- Stats boosted on 09/11/2025 00:00 UTC -->
-Stats updated on November 09, 2025
-Stats updated on 10/11/2025 às 03:03 UTC
-Stats updated on Mon Nov 10 03:03:41 UTC 2025
+<!-- Stats boosted on 10/11/2025 00:00 UTC -->
+Stats updated on November 10, 2025
