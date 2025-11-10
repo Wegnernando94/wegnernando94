@@ -45,7 +45,7 @@ Analista de Qualidade de Software com sólida experiência em garantir excelênc
     </tr>
     <tr>
       <td align="center"><strong>Segurança & Pentest</strong><br>Testes de penetração, Kali Linux, Burp Suite, Frida</td>
-      <td align="center"><strong>Automação Web & Mobile</strong><br>Cypress, Appium, Playwright</td>
+      <td align="center"><strong>Automação Web & Mobile</strong><br>Cypress, Appium, Playwright, TestComplete</td>
     </tr>
     <tr>
       <td align="center"><img src="https://img.shields.io/badge/CI%2FCD%20&%20DevOps-45B7D1?style=for-the-badge&logo=jenkins&logoColor=white" width="150px"/></td>
@@ -59,13 +59,13 @@ Analista de Qualidade de Software com sólida experiência em garantir excelênc
 </div>
 
 ## 💼 **Experiência Profissional**
-### QA Pleno - Sistemas
+### QA Pleno - Acelera Sistemas
 **Fev 2025 - Presente** | QA Acelera Sistemas e Automação QA Pleno na Vines, onde respondo por análises e produtos, com foco em automação de testes.
 
 - Automação de plataformas desktop (Delphi com TestComplete)
 - Automação de plataformas web (Cypress)
 - Validação de APIs utilizando Postman (API) e Cypress (E2E)
-- Validação de documentos minimos para garantir integrações dos fluxos de software
+- Validação de documentos mínimos para garantir integrações dos fluxos de software
 - Atuação em metodologias ágeis, participação de sprints e processos de etuplização
 - Geração de testes e issues no Jira (Azure DevOps)
 - Condução de verificações em banco de dados MySQL para validar lógica de projetos
@@ -91,9 +91,33 @@ Analista de Qualidade de Software com sólida experiência em garantir excelênc
 - Atuação com sistemas para capturas e exportações, repassando mudanças de TI
 - Monitoramento e verificação de sistema após atualizações
 
-## 🛠️ **Stack & Ferramentas**
+## 🛠️ **Stack & Ferramentas** (Competências Técnicas)
+<div align="center">
+  <table>
+    <tr>
+      <th>Automação & Testes E2E</th>
+      <th>Testes API & Performance</th>
+      <th>Segurança & Pentest</th>
+    </tr>
+    <tr>
+      <td>Cypress, TestComplete, Appium, Playwright</td>
+      <td>Postman, JMeter, Swagger, SoapUI</td>
+      <td>Testes de Penetração, Kali Linux, Burp Suite, Frida</td>
+    </tr>
+    <tr>
+      <th>CI/CD, DevOps & Monitoramento</th>
+      <th>Linguagens & Banco de Dados</th>
+      <th>Frameworks & Outras Techs</th>
+    </tr>
+    <tr>
+      <td>Jenkins, Docker, Grafana, Zabbix</td>
+      <td>Delphi, JavaScript, TypeScript, Java, Python, SQL/MySQL, PostgreSQL</td>
+      <td>Jira, Azure DevOps, NopCommerce</td>
+    </tr>
+  </table>
+</div>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,java,python,docker,kubernetes,cypress,appium,postman,jenkins,azure,aws,burpsuite,grafana,zabbix,jmeter" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,java,python,docker,kubernetes,cypress,appium,postman,jenkins,azure,aws,burpsuite,grafana,zabbix,jmeter,testcomplete,playwright,swagger,soapui,sqlserver,mysql,postgresql,delphi,nopcommerce,kali" alt="Tech Stack Icons" />
 </p>
 
 ### **Metodologias**
@@ -102,6 +126,7 @@ Analista de Qualidade de Software com sólida experiência em garantir excelênc
 ![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=ci/cd&logoColor=white)
 
 ## 📊 **Estatísticas & Interesses**
+Total Commits: 169 | Stars: 0 | Forks: 0 | Open Issues/PRs: 0  <!-- Atualizado pelo boost script -->
 <div align="center">
   <a href="https://github.com/Wegnernando94/">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wegnernando94&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=0&title_color=007bff&text_color=007bff&icon_color=007bff&bg_color=282a36" alt="Estatísticas do GitHub de Fernando Wegner" />
@@ -155,7 +180,5 @@ Analista de Qualidade de Software com sólida experiência em garantir excelênc
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
 </div>
 
+<!-- Stats boosted on 09/11/2025 00:00 UTC -->
 Stats updated on November 09, 2025
-Stats updated on 10/11/2025 às 02:45 UTC
-
-<!-- Stats boosted on 10/11/2025 02:55 UTC -->
