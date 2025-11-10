@@ -74,12 +74,12 @@ Profissional de QA com foco em Automação, DevOps e Cloud Computing. Apaixonado
 ## 📊 **Estatísticas & Interesses**
 <div align="center">
   <a href="https://github.com/Wegnernando94/">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wegnernando94&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=0&text_color=007bff" alt="Estatísticas do GitHub de Fernando Wegner" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wegnernando94&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=0&title_color=007bff&text_color=007bff&icon_color=007bff&bg_color=282a36" alt="Estatísticas do GitHub de Fernando Wegner" />
   </a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wegnernando94&layout=compact&theme=dracula&hide_border=true&langs_count=8&text_color=007bff" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wegnernando94&layout=compact&theme=dracula&hide_border=true&langs_count=8&title_color=007bff&text_color=007bff&icon_color=007bff&bg_color=282a36" alt="Top Languages" />
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wegnernando94&theme=dracula&hide_border=true&text_color=007bff" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wegnernando94&theme=dracula&hide_border=true&currStreakNum=007bff&sideNums=007bff&currStreakLabel=007bff&sideLabels=007bff&dates=007bff" alt="GitHub Streak" />
 </div>
 
 <br>
