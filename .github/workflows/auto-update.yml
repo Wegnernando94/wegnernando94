@@ -1,28 +1,44 @@
 name: Auto Update Profile
-
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs daily at midnight
-  workflow_dispatch:
-
+    - cron: '0 0 * * *'  # Diário à meia-noite UTC
+  workflow_dispatch:  # Para rodar manual
+permissions:
+  contents: write  # Permite push
 jobs:
   update-profile:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Set up Python
+        uses: actions/checkout@v4  # Atualize pra v4 (mais estável)
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Set up Python  # Se precisar do script Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.9'
-
       - name: Update profile
         run: |
-          python update_profile.py
+          # Rode o Python se existir
+          if [ -f "update_profile.py" ]; then
+            python update_profile.py
+          fi
           
+          # Cria dir se necessário (mas pro profile, use raiz)
+          mkdir -p .github/profile  # Opcional, se quiser manter
+          
+          # Append na RAIZ (README.md principal)
+          echo "Stats updated on $(date '+%d/%m/%Y às %H:%M UTC')" >> README.md
+          
+          # Git setup
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+          
+          # Add e commit só se mudou
           git add README.md
-          git commit -m "🔄 Auto-update profile with latest info" || exit 0
-          git push
+          if git diff --staged --quiet; then
+            echo "Sem mudanças — pulando commit."
+          else
+            git commit -m "🔄 Auto-update profile with latest info"
+            git push
+          fi
