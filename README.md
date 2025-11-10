@@ -5,14 +5,14 @@
 
 <h1>Olá, eu sou o Fernando Wegner 👋</h1>
 
-<h3 align="center">QA Analyst | Automação | Devops | Cloud Computing</h3>
+<h3 align="center">QA Analyst | Automação | DevOps | Cloud Computing</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fernando-wegner-186235191/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=Wegnernando94&style=for-the-badge&color=008080" alt="Profile views" />
-  <img src="https://img.shields.io/badge/-FF6F00?style=for-the-badge&logo=git" alt="Hiring Status"/>
+  <img src="https://img.shields.io/badge/Open%20to%20Work-FF6F00?style=for-the-badge&logo=git&logoColor=white" alt="Hiring Status"/>
 </p>
 
 <div align="center">
@@ -27,7 +27,7 @@
 ---
 
 ## 🎯 **Sobre Mim**
-Profissional de QA com foco em Automação, DevOps e Cloud Computing. Apaixonado por garantir qualidade e eficiência em software, com experiência em testes automatizados, CI/CD e monitoramento de infraestrutura.
+Analista de Qualidade de Software com sólida experiência em garantir excelência em produtos, atuando em testes manuais e automatizados. Plano de Testes, Análise de Sistemas e Automação QA. Desenvolvo integrações ágeis de práticas de qualidade em pipelines de CI/CD e monitoramento de ambientes em produção, sempre com foco em melhorias contínuas e entregas de alto valor.
 
 ### 🏆 **Principais Conquistas**
 - 🎯 **Redução significativa** de defeitos em produção através de automação de testes
@@ -36,35 +36,65 @@ Profissional de QA com foco em Automação, DevOps e Cloud Computing. Apaixonado
 - 💳 **Monitoramento proativo** com ferramentas como Grafana e Zabbix
 - 🏅 **Alta disponibilidade** em ambientes cloud (AWS, Azure)
 
+## 🔍 **Principais Focos de Atuação**
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/Seguran%C3%A7a%20&%20Pentest-FF6B6B?style=for-the-badge&logo=shield-alt&logoColor=white" width="150px"/></td>
+      <td align="center"><img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o%20Web%20&%20Mobile-4ECDC4?style=for-the-badge&logo=robot&logoColor=white" width="150px"/></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Segurança & Pentest</strong><br>Testes de penetração, Kali Linux, Burp Suite, Frida</td>
+      <td align="center"><strong>Automação Web & Mobile</strong><br>Cypress, Appium, Playwright</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/CI%2FCD%20&%20DevOps-45B7D1?style=for-the-badge&logo=jenkins&logoColor=white" width="150px"/></td>
+      <td align="center"><img src="https://img.shields.io/badge/Performance%20&%20Monitoramento-F7DC6F?style=for-the-badge&logo=chart-line&logoColor=white" width="150px"/></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>CI/CD & DevOps</strong><br>Jenkins, Docker, Grafana, Zabbix</td>
+      <td align="center"><strong>Performance & Monitoramento</strong><br>JMeter, Swagger, SoapUI</td>
+    </tr>
+  </table>
+</div>
+
+## 💼 **Experiência Profissional**
+### QA Pleno - Sistemas
+**Fev 2025 - Presente** | QA Acelera Sistemas e Automação QA Pleno na Vines, onde respondo por análises e produtos, com foco em automação de testes.
+
+- Automação de plataformas desktop (Delphi com TestComplete)
+- Automação de plataformas web (Cypress)
+- Validação de APIs utilizando Postman (API) e Cypress (E2E)
+- Validação de documentos minimos para garantir integrações dos fluxos de software
+- Atuação em metodologias ágeis, participação de sprints e processos de etuplização
+- Geração de testes e issues no Jira (Azure DevOps)
+- Condução de verificações em banco de dados MySQL para validar lógica de projetos
+
+### QA Pleno
+**Mai 2024 - Fev 2025** | Garantia de qualidade de produtos por meio de análises abrangentes, combinando testes manuais e automatizados.
+
+- Execução de planos de teste funcionais, utilizando Postman (API) e Cypress (E2E)
+- Realização de testes de segurança e análise de vulnerabilidades com Kali Linux, Burp Suite e Frida
+- Monitoramento e análise de desempenho em produção com Grafana e Zabbix
+- Criação e modificação de scripts de teste com TypeScript, JavaScript e Appium
+
+### Mid-level Systems Analyst
+**Nov 2022 - Dez 2023** | Condução de testes manuais em colaboração com clientes finais para identificação e resolução de bugs.
+
+- Utilização de bancos de dados (SQL) para correção de bugs no lado do cliente
+- Documentação personalizada de defeitos com inclusão de prints e relatórios de NopCommerce
+- Atuação com metodologias ágeis para geração de backlogs e refatoração de bugs
+
+### Technical Support and Help-Desk Specialist
+**Dez 2022 - Mar 2023** | Utilização de SQL Server para atualizações e queries no servidor local do cliente.
+
+- Atuação com sistemas para capturas e exportações, repassando mudanças de TI
+- Monitoramento e verificação de sistema após atualizações
+
 ## 🛠️ **Stack & Ferramentas**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,java,python,docker,kubernetes" alt="Languages and Tools" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=cypress,appium,postman,jenkins,azure,aws" alt="QA and DevOps Tools" />
-  <br>
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white" alt="Burp Suite Badge"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana Badge"/>
-  <img src="https://img.shields.io/badge/Zabbix-CC0000?style=flat-square&logo=zabbix&logoColor=white" alt="Zabbix Badge"/>
-  <img src="https://img.shields.io/badge/JMeter-1A79C3?style=flat-square&logo=apache&logoColor=white" alt="JMeter Badge"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,java,python,docker,kubernetes,cypress,appium,postman,jenkins,azure,aws,burpsuite,grafana,zabbix,jmeter" alt="Tech Stack" />
 </p>
-
-### **Automação de Testes**
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
-![Appium](https://img.shields.io/badge/Appium-47C1C6?style=flat-square&logo=appium&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
-
-### **Ferramentas de QA**
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=jmeter&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white)
-
-### **DevOps & Cloud**
-![Jenkins](https://img.shields.io/badge/Jenkins-0F0F0F?style=flat-square&logo=jenkins&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 
 ### **Metodologias**
 ![Agile](https://img.shields.io/badge/Agile-009639?style=flat-square&logo=agile&logoColor=white)
@@ -92,10 +122,12 @@ Profissional de QA com foco em Automação, DevOps e Cloud Computing. Apaixonado
 - 🎓 **Tecnólogo em Análise e Desenvolvimento de Sistemas** - Unicesumar (2021-2024, Concluído)
 
 ## 🏆 **Certificações**
-- 🏅 **Git & GitHub**
-- 🏅 **Lógica de Programação**
-- 🏅 **Cypress**
-- 🏅 **MultiCloud & DevOps IA**
+<div align="center">
+  <img src="https://img.shields.io/badge/Git%20&%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Git & GitHub"/>
+  <img src="https://img.shields.io/badge/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o-FF6B6B?style=for-the-badge&logo=code&logoColor=white" alt="Lógica de Programação"/>
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"/>
+  <img src="https://img.shields.io/badge/MultiCloud%20&%20DevOps%20IA-4ECDC4?style=for-the-badge&logo=cloud&logoColor=white" alt="MultiCloud & DevOps IA"/>
+</div>
 
 ## 📱 **Contato & Links**
 <div align="center">
