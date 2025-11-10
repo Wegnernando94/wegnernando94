@@ -21,8 +21,10 @@
 
 ---
 <div align="center">
-  <h3>✨ Inspiração do Dia</h3>
-<img src="https://img.shields.io/badge/Quote%20do%20Dia-007bff?style=for-the-badge&#x26;logo=quote-left&#x26;logoColor=white" alt="Quote Placeholder">
+  <h3>✨ Inspiração do Dia (Atualiza a cada 24h)</h3>
+  <blockquote>
+    <!-- Quote atualizada diariamente via ZenQuotes API: START -->"The only way to do great work is to love what you do." — Steve Jobs<!-- END -->
+  </blockquote>
 </div>
 ---
 
