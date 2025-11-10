@@ -1,4 +1,4 @@
-<!-- Last updated: Mon Nov 10 01:55:30 UTC 2025 -->
+<!-- Last updated: November 09, 2025 -->
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2F5YnRxeWp5enM3Y3p1cTJtcTJhZWlmcW02N251cTJwYjUzMGdxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="500px" alt="Pessoa digitando código"/>
 </div>
@@ -88,22 +88,24 @@ Profissional de QA com foco em Automação, DevOps e Cloud Computing. Apaixonado
 </p>
 
 ## 🎓 **Formação Acadêmica**
-- 🌱 **Em andamento**: [Adicione sua formação, ex: Bacharelado em Sistemas de Informação]
-- 🎓 **Concluída**: [Ex: Técnico em Informática ou similar]
+- 🌱 **Pós-graduação em Cloud Computing** - Unama (2025-2026, Cursando)
+- 🎓 **Tecnólogo em Análise e Desenvolvimento de Sistemas** - Unicesumar (2021-2024, Concluído)
 
 ## 🏆 **Certificações**
-- 🏅 **[Adicione suas certs, ex: ISTQB Foundation Level]**
-- 🏅 **[Ex: AWS Certified Developer ou similar]**
+- 🏅 **Git & GitHub**
+- 🏅 **Lógica de Programação**
+- 🏅 **Cypress**
+- 🏅 **MultiCloud & DevOps IA**
 
 ## 📱 **Contato & Links**
 <div align="center">
   <a href="https://www.linkedin.com/in/fernando-wegner-186235191/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:[seu-email@example.com]">
+  <a href="mailto:wegnernando@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="[seu-portfolio-url]">
+  <a href="https://bit.ly/Portfolio-Fernando-wegner">
     <img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio">
   </a>
 </div>
@@ -121,4 +123,4 @@ Profissional de QA com foco em Automação, DevOps e Cloud Computing. Apaixonado
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
 </div>
 
-Stats updated on Mon Nov 10 01:55:30 UTC 2025
+Stats updated on November 09, 2025
