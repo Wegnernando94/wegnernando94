@@ -21,7 +21,7 @@
 
 ---
 <div align="center">
-  <h3>✨ Inspiração do Dia (Atualiza a cada 24h)</h3>
+  <h3>✨ Inspiração do Dia</h3>
   <blockquote>
     <!-- Quote atualizada diariamente via ZenQuotes API: START -->"The only way to do great work is to love what you do." — Steve Jobs<!-- END -->
   </blockquote>
