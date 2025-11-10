@@ -125,7 +125,7 @@ Analista de Qualidade de Software com sólida experiência em testes manuais/aut
 ![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=ci/cd&logoColor=white)
 
 ## 📊 **Estatísticas & Interesses**
-Total Commits: 169 | Stars: 0 | Forks: 0 | Open Issues/PRs: 0  <!-- Atualizado pelo boost script -->
+Total Commits: 0 | Stars: 0 | Forks: 0 | Open Issues/PRs: 0  <!-- Atualizado pelo boost script -->
 <div align="center">
   <a href="https://github.com/Wegnernando94/">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wegnernando94&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=0&title_color=007bff&text_color=007bff&icon_color=007bff&bg_color=282a36" alt="Estatísticas do GitHub de Fernando Wegner" />
