@@ -1,0 +1,30 @@
+
+name: Weekly Stats Boost
+
+on:
+  schedule:
+    - cron: '0 0 * * 1'  # Runs every Monday at midnight
+  workflow_dispatch:
+
+jobs:
+  weekly-boost:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Configure Git
+        run: |
+          git config --local user.email "bellacandy5900g@gmail.com"
+          git config --local user.name "Bella5900g"
+
+      - name: Weekly commits
+        run: |
+          # Create weekly commits
+          for i in {1..10}; do
+            echo "Weekly commit $i - $(date)" >> weekly-stats.txt
+            git add weekly-stats.txt
+            git commit -m "📊 Weekly stats boost - commit $i" || true
+          done
+          
+          git push origin main || true
