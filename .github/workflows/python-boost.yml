@@ -1,8 +1,8 @@
-name: Python Boost Stats
+name: Boost Stats
 on:
   schedule:
-    - cron: '0 */6 * * *'  # A cada 6h, pra não floodar
-  workflow_dispatch:  # Manual
+    - cron: '0 */6 * * *'  # A cada 6h
+  workflow_dispatch:
 permissions:
   contents: write
 jobs:
@@ -16,16 +16,16 @@ jobs:
         with:
           python-version: '3.9'
       - name: Install deps
-        run: pip install requests  # Se precisar
+        run: pip install requests
       - name: Run boost script
         run: |
-          git config --local user.email "action@github.com"  # Seu email genérico
+          git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           python boost-stats.py
           git add README.md
           if git diff --staged --quiet; then
-            echo "Sem mudanças"
+            echo "Sem mudanças — pulando."
           else
-            git commit -m "🚀 Boosted stats on $(date)"
+            git commit -m "🚀 Boosted stats on $(date '+%d/%m/%Y %H:%M UTC')"
             git push
           fi
