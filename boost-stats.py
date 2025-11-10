@@ -1,57 +1,49 @@
-python-boost
-failed 20 minutes ago in 3s
-Search logs
-1s
-Current runner version: '2.329.0'
-Runner Image Provisioner
-Operating System
-Runner Image
-GITHUB_TOKEN Permissions
-Secret source: Actions
-Prepare workflow directory
-Prepare all required actions
-Getting action download info
-Download action repository 'actions/checkout@v4' (SHA:08eba0b27e820071cde6df949e0beb9ba4906955)
-Download action repository 'actions/setup-python@v4' (SHA:7f4fc3e22c37d6ff65e88745f38bd3157c663f7c)
-Complete job name: python-boost
-0s
-Run actions/checkout@v4
-Syncing repository: Wegnernando94/wegnernando94
-Getting Git version info
-Temporarily overriding HOME='/home/runner/work/_temp/0e8a317f-5521-44b4-98ec-a99a5a0e8192' before making global git config changes
-Adding repository directory to the temporary git global config as a safe directory
-/usr/bin/git config --global --add safe.directory /home/runner/work/wegnernando94/wegnernando94
-Deleting the contents of '/home/runner/work/wegnernando94/wegnernando94'
-Initializing the repository
-Disabling automatic garbage collection
-Setting up auth
-Fetching the repository
-Determining the checkout info
-/usr/bin/git sparse-checkout disable
-/usr/bin/git config --local --unset-all extensions.worktreeConfig
-Checking out the ref
-/usr/bin/git log -1 --format=%H
-1004305833a42687f5c8d973ae778b7f2ccaccd7
-1s
-Run actions/setup-python@v4
-Installed versions
-0s
-Run git config --local user.email "bellacandy5900g@gmail.com"
-0s
-Run python boost-stats.py
-python: can't open file '/home/runner/work/wegnernando94/wegnernando94/boost-stats.py': [Errno 2] No such file or directory
-Error: Process completed with exit code 2.
-0s
-0s
-Post job cleanup.
-/usr/bin/git version
-git version 2.51.2
-Temporarily overriding HOME='/home/runner/work/_temp/92e06c89-1ad5-4070-ab5f-7299ad0e08ca' before making global git config changes
-Adding repository directory to the temporary git global config as a safe directory
-/usr/bin/git config --global --add safe.directory /home/runner/work/wegnernando94/wegnernando94
-/usr/bin/git config --local --name-only --get-regexp core\.sshCommand
-/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'core\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :"
-/usr/bin/git config --local --name-only --get-regexp http\.https\:\/\/github\.com\/\.extraheader
-http.https://github.com/.extraheader
-/usr/bin/git config --local --unset-all http.https://github.com/.extraheader
-/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'http\.https\:\/\/github\.com\/\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :"
+#!/usr/bin/env python3
+import requests
+import os
+import re
+from datetime import datetime
+
+# Configs
+REPO = os.environ['GITHUB_REPOSITORY']  # Ex: Wegnernando94/wegnernando94
+TOKEN = os.environ['GITHUB_TOKEN']
+HEADERS = {'Authorization': f'token {TOKEN}', 'Accept': 'application/vnd.github.v3+json'}
+
+def get_stats():
+    """Puxa stats do GitHub API"""
+    owner, repo = REPO.split('/')
+    # Commits totais (aprox, via search - limite de 1000, mas ok pra perfis pessoais)
+    commits_url = f"https://api.github.com/search/commits?q=repo:{REPO}+author:{owner}"
+    commits_resp = requests.get(commits_url, headers=HEADERS)
+    total_commits = commits_resp.json().get('total_count', 0) if commits_resp.ok else 0
+
+    # Stars e PRs
+    repo_url = f"https://api.github.com/repos/{REPO}"
+    repo_resp = requests.get(repo_url, headers=HEADERS)
+    stars = repo_resp.json().get('stargazers_count', 0) if repo_resp.ok else 0
+    prs = repo_resp.json().get('open_issues_count', 0) if repo_resp.ok else 0  # Aprox PRs + issues
+
+    return total_commits, stars, prs
+
+def update_readme(total_commits, stars, prs):
+    """Atualiza README com stats dinâmicas"""
+    with open('README.md', 'r', encoding='utf-8') as f:
+        content = f.read()
+
+    # Atualiza placeholders no README (ajuste os textos se precisar)
+    content = re.sub(r'Total Commits: \d+', f'Total Commits: {total_commits}', content)
+    content = re.sub(r'Stars: \d+', f'Stars: {stars}', content)
+    content = re.sub(r'PRs: \d+', f'PRs: {prs}', content)
+
+    # Adiciona/atualiza data no final
+    update_line = f"\n<!-- Stats boosted on {datetime.now().strftime('%d/%m/%Y %H:%M UTC')} -->"
+    content = re.sub(r'<!-- Stats boosted on .* -->', update_line, content) or content + update_line
+
+    with open('README.md', 'w', encoding='utf-8') as f:
+        f.write(content)
+
+if __name__ == '__main__':
+    commits, stars, prs = get_stats()
+    print(f"Stats atualizadas: Commits={commits}, Stars={stars}, PRs={prs}")
+    update_readme(commits, stars, prs)
+    print("README atualizado com sucesso!")
