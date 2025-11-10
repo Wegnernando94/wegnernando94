@@ -1,28 +1,31 @@
-name: Python Stats Boost
-
+name: Python Boost Stats
 on:
   schedule:
-    - cron: '0 12 * * *'  # Runs daily at noon
-  workflow_dispatch:
-
+    - cron: '0 */6 * * *'  # A cada 6h, pra não floodar
+  workflow_dispatch:  # Manual
+permissions:
+  contents: write
 jobs:
-  python-boost:
+  boost:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v4
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/setup-python@v4
         with:
           python-version: '3.9'
-
-      - name: Configure Git
+      - name: Install deps
+        run: pip install requests  # Se precisar
+      - name: Run boost script
         run: |
-          git config --local user.email "bellacandy5900g@gmail.com"
-          git config --local user.name "Bella5900g"
-
-      - name: Boost stats
-        run: |
+          git config --local user.email "action@github.com"  # Seu email genérico
+          git config --local user.name "GitHub Action"
           python boost-stats.py
-          git push origin main || true
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "Sem mudanças"
+          else
+            git commit -m "🚀 Boosted stats on $(date)"
+            git push
+          fi
