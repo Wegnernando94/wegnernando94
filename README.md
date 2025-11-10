@@ -70,7 +70,7 @@ Analista de Qualidade de Software com sólida experiência em testes manuais/aut
     <tr>
       <td>Fev 2025 - Presente</td>
       <td>QA Pleno - Acom Sistemas</td>
-      <td>• Automação desktop (Delphi/TestComplete) & web (Cypress)<br>• Validação APIs (Postman/E2E) & integrações<br>• Sprints ágeis, Jira/Azure DevOps & queries MySQL</td>
+      <td>• Automação desktop (Delphi/TestComplete) & web (Cypress)<br>• Validação APIs (Postman/E2E) & integrações<br>• Sprints ágeis, Jira/Azure DevOps & MySQL</td>
     </tr>
     <tr>
       <td>Mai 2024 - Fev 2025</td>
