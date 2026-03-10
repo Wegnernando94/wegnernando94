@@ -178,21 +178,8 @@ const fernando: Developer = {
 ## 🎵 Spotify — Ouvindo Agora
 
 <p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=wegnernando&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=wegnernando&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=false">
-  </a>
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=wegnernando&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=false" alt="Ouvindo Agora no Spotify"/>
 </p>
-
-<div align="center">
-
-<!-- Para ativar: substitua SEU_SPOTIFY_UID pelo seu ID de usuário do Spotify abaixo -->
-<!-- <a href="https://open.spotify.com" target="_blank">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=SEU_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&bar_color=1ED760&bar_color_cover=false" alt="Spotify Now Playing" />
-</a> -->
-
-</div>
-
-> 🔧 **Para ativar o widget "Ouvindo Agora":** acesse [spotify-github-profile.kittinanx.com](https://spotify-github-profile.kittinanx.com), conecte sua conta Spotify e substitua `SEU_SPOTIFY_UID` pelo seu ID de usuário Spotify no código acima. Leia as permissões e a política de privacidade do serviço antes de conectar.
 
 ---
 
