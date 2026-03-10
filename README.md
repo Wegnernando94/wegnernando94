@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=🔍+QA+Analyst+%7C+Automação+%7C+Testes+E2E;⚡+CI%2FCD+%7C+DevOps+%7C+Cloud+Computing;🛡️+Segurança+%7C+Pentest+%7C+Kali+Linux;📊+Grafana+%7C+Zabbix+%7C+Monitoramento;🚀+Entregando+Qualidade+em+Cada+Release" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=%F0%9F%94%8D+QA+Analyst+%7C+Automa%C3%A7%C3%A3o+%7C+Testes+E2E%3B%E2%9A%A1+CI%2FCD+%7C+DevOps+%7C+Cloud+Computing%3B%F0%9F%9B%A1%EF%B8%8F+Seguran%C3%A7a+%7C+Pentest+%7C+Kali+Linux%3B%F0%9F%93%8A+Grafana+%7C+Zabbix+%7C+Monitoramento%3B%F0%9F%9A%80+Entregando+Qualidade+em+Cada+Release" alt="Typing SVG" />
 </div>
 
 <br>
