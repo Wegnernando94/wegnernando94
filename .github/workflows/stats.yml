@@ -12,13 +12,11 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Update README with latest stats
+      - name: Trigger stats refresh
         run: |
-          # This workflow ensures the GitHub stats are always fresh
-          echo "Stats updated on $(date)" >> README.md
-          
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add README.md
-          git commit -m "📊 Update GitHub stats" || exit 0
+          echo "# Stats refresh triggered on $(date '+%d/%m/%Y %H:%M UTC')" > .stats-last-updated
+          git add .stats-last-updated
+          git commit -m "📊 Refresh GitHub stats cache" || exit 0
           git push
