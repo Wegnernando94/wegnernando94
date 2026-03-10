@@ -158,7 +158,7 @@ const fernando: Developer = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wegnernando94&theme=tokyonight&hide_border=true&ring=00b4d8&fire=ff6b6b&currStreakLabel=00b4d8&sideLabels=00b4d8&dates=caf0f8&sideNums=caf0f8&currStreakNum=caf0f8" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Wegnernando94&theme=tokyonight&hide_border=true&ring=00b4d8&fire=ff6b6b&currStreakLabel=00b4d8&sideLabels=00b4d8&dates=caf0f8&sideNums=caf0f8&currStreakNum=caf0f8" alt="GitHub Streak"/>
 </div>
 
 <br>
@@ -172,6 +172,44 @@ const fernando: Developer = {
 <p align="center">
   <img src="https://github.com/Wegnernando94/wegnernando94/raw/output/github-contribution-grid-snake.gif" alt="Snake animation"/>
 </p>
+
+---
+
+## 🎵 Spotify — Ouvindo Agora
+
+<div align="center">
+  <a href="https://open.spotify.com" target="_blank">
+    <img src="https://img.shields.io/badge/Abrir%20o%20Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Abrir Spotify"/>
+  </a>
+</div>
+
+<div align="center">
+
+<!-- Para ativar: substitua SEU_SPOTIFY_UID pelo seu ID de usuário do Spotify abaixo -->
+<!-- <a href="https://open.spotify.com" target="_blank">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=SEU_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&bar_color=1ED760&bar_color_cover=false" alt="Spotify Now Playing" />
+</a> -->
+
+</div>
+
+> 🔧 **Para ativar o widget "Ouvindo Agora":** acesse [spotify-github-profile.kittinanx.com](https://spotify-github-profile.kittinanx.com), conecte sua conta Spotify e substitua `SEU_SPOTIFY_UID` pelo seu ID de usuário Spotify no código acima. Leia as permissões e a política de privacidade do serviço antes de conectar.
+
+---
+
+## 🎮 Mini Game — Jogue Agora!
+
+<div align="center">
+
+**Divirta-se com um jogo rápido direto pelo navegador!**
+
+<br>
+
+[![🐍 Snake](https://img.shields.io/badge/🐍%20Snake%20Game-4CAF50?style=for-the-badge&logoColor=white)](https://playsnake.org)
+[![🎯 2048](https://img.shields.io/badge/🎯%202048-FF9800?style=for-the-badge&logoColor=white)](https://play2048.co)
+[![🧩 Tetris](https://img.shields.io/badge/🧩%20Tetris-3F51B5?style=for-the-badge&logoColor=white)](https://tetris.com/play-tetris)
+[![🦕 Dino](https://img.shields.io/badge/🦕%20Dino%20Game-607D8B?style=for-the-badge&logoColor=white)](https://chromedino.com)
+
+</div>
 
 ---
 
