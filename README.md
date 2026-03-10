@@ -153,8 +153,8 @@ const fernando: Developer = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wegnernando94&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=caf0f8&bg_color=0d1117" alt="GitHub Stats de Fernando Wegner"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wegnernando94&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=00b4d8&text_color=caf0f8&bg_color=0d1117" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wegnernando94&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=caf0f8&bg_color=0d1117&cache_seconds=86400" alt="GitHub Stats de Fernando Wegner"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wegnernando94&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=00b4d8&text_color=caf0f8&bg_color=0d1117&cache_seconds=86400" alt="Top Languages"/>
 </div>
 
 <div align="center">
@@ -170,7 +170,7 @@ const fernando: Developer = {
 <br>
 
 <p align="center">
-  <img src="https://github.com/Wegnernando94/wegnernando94/raw/output/github-contribution-grid-snake.gif" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/Wegnernando94/wegnernando94/output/github-contribution-grid-snake.gif" alt="Snake animation"/>
 </p>
 
 ---
@@ -178,7 +178,9 @@ const fernando: Developer = {
 ## 🎵 Spotify — Ouvindo Agora
 
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=wegnernando&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=false" alt="Ouvindo Agora no Spotify"/>
+  <a href="https://open.spotify.com/user/wegnernando" target="_blank">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=wegnernando&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=false" alt="Ouvindo Agora no Spotify"/>
+  </a>
 </p>
 
 ---
