@@ -15,8 +15,8 @@ jobs:
 
       - name: Configure Git
         run: |
-          git config --local user.email "bellacandy5900g@gmail.com"
-          git config --local user.name "Bella5900g"
+          git config --local user.email "wegnernando@gmail.com"
+          git config --local user.name "Fernando Wegner"
 
       - name: Weekly commits
         run: |
