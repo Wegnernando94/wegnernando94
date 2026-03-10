@@ -177,11 +177,11 @@ const fernando: Developer = {
 
 ## 🎵 Spotify — Ouvindo Agora
 
-<div align="center">
-  <a href="https://open.spotify.com" target="_blank">
-    <img src="https://img.shields.io/badge/Abrir%20o%20Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Abrir Spotify"/>
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=wegnernando&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=wegnernando&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=false">
   </a>
-</div>
+</p>
 
 <div align="center">
 
