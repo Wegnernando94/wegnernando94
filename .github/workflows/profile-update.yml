@@ -5,18 +5,21 @@ on:
     - cron: '0 0 * * *'  # Runs daily at midnight
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   update-profile:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Update profile README
         run: |
-          echo "Profile updated on $(date)" >> .github/profile/README.md
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add .github/profile/README.md
-          git commit -m "Update profile README" || exit 0
+          echo "# Profile updated on $(date -u '+%d/%m/%Y %H:%M UTC')" > .stats-last-updated
+          git add .stats-last-updated
+          git commit -m "🔄 Update profile - $(date -u '+%d/%m/%Y %H:%M UTC')" || exit 0
           git push
