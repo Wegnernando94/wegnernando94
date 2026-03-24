@@ -31,8 +31,8 @@
 ```typescript
 const fernando: Developer = {
   nome:     "Fernando Wegner",
-  cargo:    "QA Analyst Pleno",
-  empresa:  "Acom Sistemas",
+  cargo:    "QA Analyst Sênior",
+  empresa:  "UEX Tecnologia",
   foco:     ["Automação", "DevOps", "Cloud", "Segurança"],
   stack:    ["Cypress", "Playwright", "Appium", "Jenkins", "Docker"],
   formacao: "Tecnólogo ADS + Pós Cloud Computing",
@@ -127,12 +127,19 @@ const fernando: Developer = {
 <br>
 
 ```
-🏢 QA Pleno — Acom Sistemas                         Fev 2025 – Presente
+🏢 QA Sênior — Uex Tecnologia Jan 2026 – Present
+  ├─ Liderança & Estratégia: Atuação em engenharia de qualidade, definindo critérios de aceite (DoD), estratégias por sprint e mapeamento de novas features.
+  ├─ Automação & Contratos: Implementação de suítes com PEST PHP e Contract Testing com PACT para validação de microsserviços e integrações.
+  ├─ Segurança & Infra: Testes de segurança (OWASP) com Burp Suite e HexStrike para detecção de vulnerabilidades e falhas críticas de infraestrutura.
+  ├─ DevOps & Qualidade: Evolução de pipelines CI/CD, monitoramento de cobertura de testes e análise de rastreabilidade de bugs de alto impacto.
+  └─ Inovação & Cultura: Disseminação de boas práticas via code reviews e uso estratégico de IA para geração de cenários e análise de padrões de falha.
+
+🖥️ QA Pleno — Acom Sistemas                         Fev 2025 – Dez 2025
    ├─ Automação desktop (Delphi/TestComplete) & web (Cypress)
    ├─ Validação de APIs (Postman/E2E) & integrações de sistema
    └─ Sprints ágeis com Jira/Azure DevOps & banco MySQL
 
-🔐 QA Pleno — (Confidencial)                        Mai 2024 – Fev 2025
+🖥️ QA Pleno — Vivensis                        Mai 2024 – Fev 2025
    ├─ Testes funcionais e de segurança (Postman, Cypress, Kali/Burp/Frida)
    ├─ Monitoramento de produção em tempo real (Grafana/Zabbix)
    └─ Scripts de automação TypeScript/JS/Appium
