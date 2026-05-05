@@ -160,12 +160,12 @@ const fernando: Developer = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wegnernando94&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=caf0f8&bg_color=0d1117&cache_seconds=86400" alt="GitHub Stats de Fernando Wegner"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wegnernando94&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=00b4d8&text_color=caf0f8&bg_color=0d1117&cache_seconds=86400" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wegnernando94&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=caf0f8&bg_color=0d1117&rank_icon=github" alt="GitHub Stats de Fernando Wegner"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wegnernando94&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=00b4d8&text_color=caf0f8&bg_color=0d1117" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Wegnernando94&theme=tokyonight&hide_border=true&ring=00b4d8&fire=ff6b6b&currStreakLabel=00b4d8&sideLabels=00b4d8&dates=caf0f8&sideNums=caf0f8&currStreakNum=caf0f8" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wegnernando94&theme=tokyonight&hide_border=true&ring=00b4d8&fire=ff6b6b&currStreakLabel=00b4d8&sideLabels=00b4d8&dates=caf0f8&sideNums=caf0f8&currStreakNum=caf0f8" alt="GitHub Streak"/>
 </div>
 
 <br>
