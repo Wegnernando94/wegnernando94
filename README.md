@@ -18,7 +18,10 @@
   <a href="https://bit.ly/Portfolio-Fernando-wegner">
     <img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Wegnernando94&style=for-the-badge&color=00b4d8&label=VISITAS+TOTAIS" alt="Profile views"/>
+  <!-- VISITOR_BADGES_START -->
+  <img src="https://img.shields.io/badge/👁️_Visitas_Hoje-0-00b4d8?style=for-the-badge&labelColor=0d1117" alt="Visitas hoje"/>
+  <img src="https://img.shields.io/badge/📊_Total_de_Visitas-0-0077b6?style=for-the-badge&labelColor=0d1117" alt="Total de visitas"/>
+  <!-- VISITOR_BADGES_END -->
 </div>
 
 <div align="center">
