@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=00B4D8&center=true&vCenter=true&width=700&lines=🔍+QA+Engineer+Specialist+%7C+Automação+E2E;⚡+CI%2FCD+%7C+DevOps+%7C+Cloud+%7C+Kubernetes;🛡️+AppSec+%7C+Pentest+%7C+OWASP+%7C+Burp+Suite;📊+Observability+%7C+Grafana+%7C+Zabbix;🚀+Entregando+Qualidade+em+cada+Release" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=00B4D8&center=true&vCenter=true&width=700&lines=🔍+QA+Engineer+%7C+Automação+E2E+%26+Mobile;⚡+CI%2FCD+%7C+DevOps+%7C+Jenkins+%7C+Docker;🛡️+AppSec+%7C+Pentest+%7C+OWASP+%7C+Burp+Suite;📊+Observability+%7C+Grafana+%7C+Zabbix;🚀+Entregando+Qualidade+em+cada+Release" alt="Typing SVG"/>
 </div>
 
 <br>
@@ -27,7 +27,7 @@
 <div align="center">
   <br>
   <img src="https://img.shields.io/badge/⚡ Status-Aceito%20Desafios-00b4d8?style=flat-square&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/📍 Localização-Brasil-00b4d8?style=flat-square&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/📍 Localização-Curitiba%2C%20Brasil-00b4d8?style=flat-square&labelColor=0d1117"/>
   <img src="https://img.shields.io/badge/🏢 UEX-Tecnologia-00b4d8?style=flat-square&labelColor=0d1117"/>
 </div>
 
@@ -44,27 +44,29 @@ const fernando: QAEngineer = {
   nome:       "Fernando Wegner",
   cargo:      "QA Engineer Specialist",
   empresa:    "UEX Tecnologia",
-  localidade: "Brasil 🇧🇷",
+  localidade: "Curitiba, Brasil 🇧🇷",
 
   especialidades: [
     "Automação E2E & Mobile",
     "Contract Testing (PACT)",
     "AppSec & Pentest",
+    "Performance & Carga (K6, JMeter)",
     "CI/CD & DevOps",
-    "Cloud (AWS / Azure)",
     "Observability",
   ],
 
   stack: {
-    testes:   ["Cypress", "Playwright", "Appium", "PEST PHP"],
-    devops:   ["Jenkins", "Docker", "GitHub Actions", "Kubernetes"],
-    cloud:    ["AWS", "Azure", "Azure DevOps"],
-    security: ["Burp Suite", "OWASP", "Kali Linux", "Frida"],
-    monitor:  ["Grafana", "Zabbix", "Prometheus"],
+    testes:    ["Cypress", "Playwright", "Appium", "PEST PHP", "Selenium", "Robot Framework"],
+    api:       ["Postman", "JMeter", "K6", "Swagger", "SoapUI", "PACT"],
+    devops:    ["Jenkins", "Docker", "GitHub Actions", "Azure DevOps"],
+    security:  ["Burp Suite", "OWASP", "Kali Linux", "Frida", "HexStrike"],
+    monitor:   ["Grafana", "Zabbix"],
+    linguagens:["TypeScript", "JavaScript", "Python", "Java", "PHP", "Delphi", "C#"],
+    banco:     ["MySQL", "PostgreSQL", "MongoDB", "SQLite", "SQL Server"],
   },
 
-  formacao:  "Tecnólogo ADS + Pós Cloud Computing",
-  missao:    "Qualidade & Inovação em cada linha de código 🚀",
+  formacao: "Tecnólogo ADS + Pós Cloud Computing",
+  missao:   "Qualidade & Inovação em cada linha de código 🚀",
 };
 ```
 
@@ -79,11 +81,11 @@ const fernando: QAEngineer = {
 |  |  |
 |:---|:---|
 | 🎯 **Qualidade em Produção** | Redução significativa de defeitos via automação estratégica de testes |
-| ⚡ **CI/CD Otimizado** | Pipelines ágeis e confiáveis com deploys frequentes e seguros |
-| 🛡️ **AppSec** | Detecção proativa de vulnerabilidades críticas com OWASP / Burp Suite |
-| 📡 **Observability** | Monitoramento em tempo real de produção com Grafana & Zabbix |
-| ☁️ **Cloud** | Alta disponibilidade garantida em ambientes AWS e Azure |
-| 🤖 **IA Aplicada** | Uso estratégico de IA para geração de cenários e análise de falhas |
+| ⚡ **CI/CD Otimizado** | Revisão e fortalecimento de pipelines com execução automática a cada deploy |
+| 🛡️ **AppSec** | Detecção proativa de vulnerabilidades críticas com OWASP / Burp Suite / HexStrike |
+| 📡 **Observability** | Monitoramento de desempenho em produção com Grafana & Zabbix |
+| 🤖 **IA Aplicada** | Uso estratégico de IA para geração de cenários e análise de padrões de falha |
+| 📋 **Contract Testing** | Validação de contratos entre microsserviços com PACT |
 
 </div>
 
@@ -98,10 +100,10 @@ const fernando: QAEngineer = {
 │   🛡️ Segurança & AppSec  │  🤖 Automação Web/Mobile  │    ⚙️ CI/CD & DevOps    │  📈 Performance & Monitor  │
 ├─────────────────────────┼──────────────────────────┼─────────────────────────┼────────────────────────────┤
 │ Kali Linux              │ Cypress                  │ Jenkins                 │ JMeter                     │
-│ Burp Suite              │ Playwright               │ Docker / Kubernetes     │ Grafana                    │
-│ Frida                   │ Appium                   │ Azure DevOps            │ Zabbix                     │
-│ OWASP Top 10            │ PEST PHP                 │ GitHub Actions          │ Prometheus                 │
-│ HexStrike               │ TestComplete             │ ArgoCD / GitOps         │ SoapUI                     │
+│ Burp Suite              │ Playwright               │ Docker                  │ K6                         │
+│ Frida                   │ Appium                   │ Azure DevOps            │ Grafana                    │
+│ OWASP Top 10            │ PEST PHP                 │ GitHub Actions          │ Zabbix                     │
+│ HexStrike               │ Selenium / Robot FW      │ Ranorex / TestComplete  │ SoapUI                     │
 └─────────────────────────┴──────────────────────────┴─────────────────────────┴────────────────────────────┘
 ```
 
@@ -113,47 +115,59 @@ const fernando: QAEngineer = {
 
 <div align="center">
 
-### 🧪 Testes & Automação
+### 🧪 Automação & Testes E2E
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Appium](https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white)
+![TestComplete](https://img.shields.io/badge/TestComplete-8DC63F?style=for-the-badge&logo=smartbear&logoColor=white)
+![Ranorex](https://img.shields.io/badge/Ranorex-FF6C37?style=for-the-badge&logoColor=white)
+![PEST PHP](https://img.shields.io/badge/PEST_PHP-EF3B2D?style=for-the-badge&logo=php&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+
+### 🔗 API, Performance & Contract Testing
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
+![K6](https://img.shields.io/badge/K6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![PACT](https://img.shields.io/badge/PACT-E4393C?style=for-the-badge&logo=pact&logoColor=white)
+![SoapUI](https://img.shields.io/badge/SoapUI-6DB33F?style=for-the-badge&logoColor=white)
+![PACT](https://img.shields.io/badge/PACT-E4393C?style=for-the-badge&logoColor=white)
 
-### ⚙️ DevOps & Cloud
+### ⚙️ CI/CD & DevOps
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ### 📊 Observability & Monitoramento
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 
-### 💻 Linguagens
+### 🛡️ Segurança & Pentest
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Frida](https://img.shields.io/badge/Frida-00B4D8?style=for-the-badge&logoColor=white)
+
+### 💻 Linguagens & Banco de Dados
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🛡️ Segurança & AppSec
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![Frida](https://img.shields.io/badge/Frida-00B4D8?style=for-the-badge&logo=frida&logoColor=white)
+![Delphi](https://img.shields.io/badge/Delphi-EE1F35?style=for-the-badge&logo=delphi&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 📋 Gestão & Metodologias
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-0079BF?style=for-the-badge&logo=trello&logoColor=white)
 
 </div>
 
@@ -168,13 +182,15 @@ const fernando: QAEngineer = {
 
 </div>
 
-> Atuação estratégica em engenharia de qualidade com foco em automação, segurança e DevOps.
+> Atuação em engenharia de qualidade, liderando iniciativas estratégicas de automação, cobertura de testes e governança de qualidade em produtos de alto impacto.
 
-- 🎯 **Liderança & Estratégia** — Definição de critérios de aceite (DoD), estratégias de qualidade por sprint e mapeamento de features
-- 🤖 **Automação & Contratos** — Suítes com PEST PHP e Contract Testing com PACT para microsserviços
-- 🛡️ **Segurança** — Testes OWASP com Burp Suite e HexStrike para detecção de vulnerabilidades críticas
-- 🔄 **DevOps & CI/CD** — Evolução de pipelines, cobertura de testes e rastreabilidade de bugs de alto impacto
-- 🧠 **IA Aplicada** — Uso de IA para geração de cenários de teste e análise de padrões de falha
+- 🎯 **Liderança Técnica** — Mapeamento e implementação de novas features, desde análise de requisitos e regras de negócio até validação em produção
+- 🤖 **Automação** — Implementação e evolução de suítes automatizadas com PEST PHP, garantindo cobertura robusta em aplicações back-end
+- 📋 **Contract Testing** — Validação de contratos entre microsserviços com PACT para consistência nas integrações
+- 📊 **Qualidade** — Monitoramento de cobertura de testes, identificando gaps críticos e propondo estratégias alinhadas às metas
+- 🔄 **CI/CD** — Revisão e fortalecimento do pipeline, assegurando execução automática de testes a cada deploy
+- 🛡️ **Segurança** — Testes com Burp Suite seguindo metodologia OWASP e HexStrike para detecção de vulnerabilidades críticas
+- 🧠 **IA Aplicada** — Uso estratégico de IA para análise de cobertura, geração de cenários e identificação de padrões de falha
 
 ---
 
@@ -185,9 +201,14 @@ const fernando: QAEngineer = {
 
 </div>
 
-- Automação desktop (Delphi/TestComplete) & web (Cypress)
-- Validação de APIs com Postman / testes E2E
-- Sprints ágeis com Jira/Azure DevOps e banco MySQL
+> Qualidade de sistemas desktop e web por meio de testes manuais e automatizados em projetos dos setores de food, fiscal e logístico.
+
+- Automação de aplicações desktop (Delphi) com TestComplete
+- Automação de plataformas web com Cypress
+- Validação de APIs com Postman para garantir integrações
+- Criação de documentações para padronização dos fluxos de software
+- Gestão de testes e issues em Jira e Azure (esteira de testes)
+- Verificações em banco de dados MySQL para validar a lógica do projeto
 
 ---
 
@@ -198,22 +219,42 @@ const fernando: QAEngineer = {
 
 </div>
 
-- Testes funcionais e de segurança (Postman, Cypress, Kali/Burp/Frida)
-- Monitoramento de produção em tempo real com Grafana e Zabbix
-- Scripts de automação TypeScript/JS/Appium
+> Garantia da qualidade dos produtos combinando testes manuais, automatizados e de segurança em análises abrangentes.
+
+- Execução de planos de teste com Postman (API) e Cypress (E2E)
+- Testes de penetração e análise de vulnerabilidades com Kali Linux, Burp Suite e Frida
+- Integração de práticas de segurança ao pipeline de CI/CD com Jenkins
+- Monitoramento de desempenho em produção com Grafana e Zabbix
+- Testes mobile com Appium e integração de APIs via Swagger
+- Criação de scripts de teste com TypeScript, JavaScript e Java
 
 ---
 
 <div align="center">
 
-### 🖥️ Analista de Sistemas Pleno
-#### `Nov 2022 – Dez 2023`
+### 🖥️ Mid-level Systems Analyst — Nox Automação
+#### `Mai 2022 – Dez 2023`
 
 </div>
 
-- Testes manuais e correções SQL para clientes
-- Documentação de defeitos em plataforma NopCommerce
-- Backlogs ágeis e refatoração de bugs
+- Testes manuais com clientes finais para identificação e resolução de bugs
+- SQL para correção de bugs no lado do cliente
+- Design e personalização de sites na plataforma Nopcommerce
+- Documentação de procedimentos e registros de mudanças
+- Atuação com Delphi, DataSnap, Stored Procedure e C#
+
+---
+
+<div align="center">
+
+### 🎧 Technical Support & Help-Desk Specialist — Escriba
+#### `Dez 2022 – Mar 2023`
+
+</div>
+
+- SQL Server para atualizações e ajustes no servidor local do cliente
+- Sistemas para cartórios extrajudiciais, repassando mudanças do TJ
+- Monitoramento e verificação do sistema após atualizações
 
 ---
 
