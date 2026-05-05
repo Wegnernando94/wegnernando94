@@ -23,7 +23,7 @@
 
 <div align="center">
   <br>
-  <img src="https://img.shields.io/badge/🟢 Open%20to%20Work-available-00b4d8?style=flat-square&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/⚡ Status-Aceito%20Desafios-00b4d8?style=flat-square&labelColor=0d1117"/>
   <img src="https://img.shields.io/badge/📍 Localização-Brasil-00b4d8?style=flat-square&labelColor=0d1117"/>
   <img src="https://img.shields.io/badge/🏢 UEX-Tecnologia-00b4d8?style=flat-square&labelColor=0d1117"/>
 </div>
