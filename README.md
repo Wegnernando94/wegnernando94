@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>💡 "A qualidade nunca é um acidente; é sempre o resultado de um esforço inteligente." — John Ruskin</i>
+  <i>🧊 "Cache é a resposta para tudo, exceto para consistência." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
