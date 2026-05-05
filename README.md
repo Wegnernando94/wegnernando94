@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=00B4D8&center=true&vCenter=true&width=700&lines=🔍+QA+Engineer+Sênior+%7C+Automação+E2E;⚡+CI%2FCD+%7C+DevOps+%7C+Cloud+%7C+Kubernetes;🛡️+AppSec+%7C+Pentest+%7C+OWASP+%7C+Burp+Suite;📊+Observability+%7C+Grafana+%7C+Zabbix;🚀+Entregando+Qualidade+em+cada+Release" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=00B4D8&center=true&vCenter=true&width=700&lines=🔍+QA+Engineer+Specialist+%7C+Automação+E2E;⚡+CI%2FCD+%7C+DevOps+%7C+Cloud+%7C+Kubernetes;🛡️+AppSec+%7C+Pentest+%7C+OWASP+%7C+Burp+Suite;📊+Observability+%7C+Grafana+%7C+Zabbix;🚀+Entregando+Qualidade+em+cada+Release" alt="Typing SVG"/>
 </div>
 
 <br>
