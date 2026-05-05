@@ -39,7 +39,7 @@
 ```typescript
 const fernando: QAEngineer = {
   nome:       "Fernando Wegner",
-  cargo:      "QA Engineer Sênior",
+  cargo:      "QA Engineer Specialist",
   empresa:    "UEX Tecnologia",
   localidade: "Brasil 🇧🇷",
 
@@ -160,7 +160,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
 
-### 🏢 QA Engineer Sênior — UEX Tecnologia
+### 🏢 QA Engineer Specialist — UEX Tecnologia
 #### `Jan 2026 – Presente`
 
 </div>
