@@ -1,6 +1,11 @@
 {
   "total": 0,
   "today": 0,
-  "last_updated": "",
-  "history": []
+  "last_updated": "2026-05-05T02:18:01.786387+00:00",
+  "history": [
+    {
+      "date": "2026-05-05",
+      "count": 0
+    }
+  ]
 }
