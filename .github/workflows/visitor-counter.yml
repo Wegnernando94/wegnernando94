@@ -13,12 +13,11 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-        env:
-          FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+        with:
+          ref: main
+          fetch-depth: 0
 
       - uses: actions/setup-python@v5
-        env:
-          FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
         with:
           python-version: '3.11'
 
@@ -35,4 +34,4 @@ jobs:
           git diff --staged --quiet && exit 0
           git commit -m "chore: atualiza contador de visitas [skip ci]"
           git pull --rebase origin main
-          git push
+          git push origin main
