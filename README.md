@@ -215,7 +215,7 @@ const fernando: Developer = {
 
 | 🎓 Curso | 🏫 Instituição | 📅 Período | 📌 Status |
 |:---|:---|:---:|:---:|
-| Pós-graduação em Cloud Computing | Unama | 2025 – 2026 | 🟢 Cursando |
+| Pós-graduação em Cloud Computing | Unama | 2025 – 2026 | ✅ Concluído  |
 | Tecnólogo em Análise e Desenvolvimento de Sistemas | Unicesumar | 2021 – 2024 | ✅ Concluído |
 
 </div>
