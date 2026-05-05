@@ -252,7 +252,9 @@ const fernando: Developer = {
 <br>
 
 <div align="center">
+  <!-- QUOTE_START -->
   <i>💡 "A qualidade nunca é um acidente; é sempre o resultado de um esforço inteligente." — John Ruskin</i>
+  <!-- QUOTE_END -->
 </div>
 
 <br>
