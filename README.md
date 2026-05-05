@@ -18,7 +18,7 @@
   <a href="https://bit.ly/Portfolio-Fernando-wegner">
     <img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Wegnernando94&style=for-the-badge&color=00b4d8&label=VISITORS" alt="Profile views"/>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWegnernando94&count_bg=%2300B4D8&title_bg=%230D1117&icon=github.svg&icon_color=%23FFFFFF&title=hoje+%2F+total&edge_flat=false" alt="Visitas hoje / total"/>
 </div>
 
 <div align="center">
