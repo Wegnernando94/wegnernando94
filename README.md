@@ -20,7 +20,7 @@
   </a>
   <!-- VISITOR_BADGES_START -->
   <img src="https://img.shields.io/badge/👁️_Visitas_Hoje-0-00b4d8?style=for-the-badge&labelColor=0d1117" alt="Visitas hoje"/>
-  <img src="https://img.shields.io/badge/📊_Total_de_Visitas-0-0077b6?style=for-the-badge&labelColor=0d1117" alt="Total de visitas"/>
+  <img src="https://img.shields.io/badge/📊_Total_de_Visitas-85-0077b6?style=for-the-badge&labelColor=0d1117" alt="Total de visitas"/>
   <!-- VISITOR_BADGES_END -->
 </div>
 
