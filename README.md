@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🧊 "Cache é a resposta para tudo, exceto para consistência." — Anônimo</i>
+  <i>🎯 "Qualidade de código é responsabilidade do time, não do QA." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
