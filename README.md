@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🎯 "Qualidade de código é responsabilidade do time, não do QA." — Anônimo</i>
+  <i>🦁 "Liderança técnica é sobre elevar o time, não sobre ser o melhor programador." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
