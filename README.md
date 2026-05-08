@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🦁 "Liderança técnica é sobre elevar o time, não sobre ser o melhor programador." — Anônimo</i>
+  <i>🔑 "Criptografia forte com chave fraca é porta blindada com janela aberta." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
