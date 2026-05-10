@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🚀 "Platform engineering: construa estradas para que outros construam cidades." — Anônimo</i>
+  <i>🌟 "Observabilidade sem ação é voyeurismo de sistema." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
