@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🌟 "Observabilidade sem ação é voyeurismo de sistema." — Anônimo</i>
+  <i>🧠 "Complexidade acidental é o inimigo. Combata-a diariamente." — Fred Brooks</i>
   <!-- QUOTE_END -->
 </div>
 
