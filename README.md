@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🧠 "Complexidade acidental é o inimigo. Combata-a diariamente." — Fred Brooks</i>
+  <i>🎪 "Daily sem bloqueios visíveis não significa ausência de bloqueios." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
