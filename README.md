@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🎪 "Daily sem bloqueios visíveis não significa ausência de bloqueios." — Anônimo</i>
+  <i>🌍 "API-first design: pense no contrato antes do código." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
