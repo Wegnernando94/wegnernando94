@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🌍 "API-first design: pense no contrato antes do código." — Anônimo</i>
+  <i>🏆 "Continuous delivery é sobre confiança: no código, no processo e na equipe." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
