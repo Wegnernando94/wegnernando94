@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🏆 "Continuous delivery é sobre confiança: no código, no processo e na equipe." — Anônimo</i>
+  <i>💡 "O melhor algoritmo é o que resolve o problema com os recursos disponíveis." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
