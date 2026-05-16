@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>💡 "O melhor algoritmo é o que resolve o problema com os recursos disponíveis." — Anônimo</i>
+  <i>🔭 "Telemetria é o sistema nervoso do software moderno." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
