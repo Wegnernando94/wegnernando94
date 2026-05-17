@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🔭 "Telemetria é o sistema nervoso do software moderno." — Anônimo</i>
+  <i>🌱 "Onboarding técnico ruim é o primeiro passo para o churn de talentos." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
