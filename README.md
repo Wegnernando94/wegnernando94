@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🌱 "Onboarding técnico ruim é o primeiro passo para o churn de talentos." — Anônimo</i>
+  <i>⚡ "Otimização prematura é a raiz de todo mal." — Donald Knuth</i>
   <!-- QUOTE_END -->
 </div>
 
