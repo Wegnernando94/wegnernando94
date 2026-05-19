@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>⚡ "Otimização prematura é a raiz de todo mal." — Donald Knuth</i>
+  <i>🎵 "Código bom envelhece bem. Código ruim envelhece mal e fica." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
