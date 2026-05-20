@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🎵 "Código bom envelhece bem. Código ruim envelhece mal e fica." — Anônimo</i>
+  <i>🦋 "Cada deploy bem-sucedido é um voto de confiança no processo." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
