@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🦋 "Cada deploy bem-sucedido é um voto de confiança no processo." — Anônimo</i>
+  <i>🌊 "Eventual consistency: a verdade chega, só não sei quando." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
