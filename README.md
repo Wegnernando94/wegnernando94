@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🌊 "Eventual consistency: a verdade chega, só não sei quando." — Anônimo</i>
+  <i>🔬 "Static analysis é o revisor que nunca dorme e nunca tem ego." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
