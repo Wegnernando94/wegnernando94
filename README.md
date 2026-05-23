@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🔬 "Static analysis é o revisor que nunca dorme e nunca tem ego." — Anônimo</i>
+  <i>🏗️ "Domain-driven design: fale a língua do negócio no código." — Eric Evans</i>
   <!-- QUOTE_END -->
 </div>
 
