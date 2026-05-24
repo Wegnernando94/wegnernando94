@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🏗️ "Domain-driven design: fale a língua do negócio no código." — Eric Evans</i>
+  <i>🎬 "Versionamento semântico é comunicação. MAJOR.MINOR.PATCH conta uma história." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
