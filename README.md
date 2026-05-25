@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🎬 "Versionamento semântico é comunicação. MAJOR.MINOR.PATCH conta uma história." — Anônimo</i>
+  <i>🌵 "Downtime planejado é manutenção. Downtime não planejado é aprendizado caro." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
