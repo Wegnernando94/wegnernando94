@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🌵 "Downtime planejado é manutenção. Downtime não planejado é aprendizado caro." — Anônimo</i>
+  <i>🔮 "Predição sem dados históricos é adivinhação com vocabulário técnico." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
