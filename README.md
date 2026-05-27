@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🔮 "Predição sem dados históricos é adivinhação com vocabulário técnico." — Anônimo</i>
+  <i>🧬 "DevSecOps: segurança não é portão final, é ingrediente de cada etapa." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
