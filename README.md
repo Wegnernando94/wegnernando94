@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🧬 "DevSecOps: segurança não é portão final, é ingrediente de cada etapa." — Anônimo</i>
+  <i>🎸 "Boa documentação é o presente que você dá para você mesmo no futuro." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
