@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🎸 "Boa documentação é o presente que você dá para você mesmo no futuro." — Anônimo</i>
+  <i>🏰 "Fault tolerance é sobre sobreviver à falha, não sobre evitá-la." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
