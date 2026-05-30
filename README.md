@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🏰 "Fault tolerance é sobre sobreviver à falha, não sobre evitá-la." — Anônimo</i>
+  <i>🌻 "Kanban: visualize o fluxo, limite o trabalho em progresso, melhore continuamente." — Taiichi Ohno</i>
   <!-- QUOTE_END -->
 </div>
 
