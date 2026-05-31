@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🌻 "Kanban: visualize o fluxo, limite o trabalho em progresso, melhore continuamente." — Taiichi Ohno</i>
+  <i>🔴 "Bug em produção tem nome e sobrenome: falta de teste." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
