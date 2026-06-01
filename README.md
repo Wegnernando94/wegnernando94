@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🔴 "Bug em produção tem nome e sobrenome: falta de teste." — Anônimo</i>
+  <i>🎠 "GitOps: se não está no repositório, não existe." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
