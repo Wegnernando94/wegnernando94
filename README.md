@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🎠 "GitOps: se não está no repositório, não existe." — Anônimo</i>
+  <i>🌴 "Segurança by design, não by afterthought." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
