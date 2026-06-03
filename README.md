@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🌴 "Segurança by design, não by afterthought." — Anônimo</i>
+  <i>🧲 "Developer experience ruim é talent retention ruim." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
