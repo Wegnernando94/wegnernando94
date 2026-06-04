@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🧲 "Developer experience ruim é talent retention ruim." — Anônimo</i>
+  <i>🏔️ "Alta disponibilidade é compromisso de arquitetura, não de sorte." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
