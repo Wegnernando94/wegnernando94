@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🏔️ "Alta disponibilidade é compromisso de arquitetura, não de sorte." — Anônimo</i>
+  <i>🎋 "Tecnologia muda. Princípios de bom design permanecem." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
