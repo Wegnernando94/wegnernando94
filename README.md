@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🎋 "Tecnologia muda. Princípios de bom design permanecem." — Anônimo</i>
+  <i>🦾 "IaC é o único jeito de ter infraestrutura auditável." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
