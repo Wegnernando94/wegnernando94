@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🦾 "IaC é o único jeito de ter infraestrutura auditável." — Anônimo</i>
+  <i>🌈 "Testes de regressão são a memória coletiva do software." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
