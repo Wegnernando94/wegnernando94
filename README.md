@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🌈 "Testes de regressão são a memória coletiva do software." — Anônimo</i>
+  <i>🏊 "Swim lanes no Kanban: visualize gargalos antes que virem crises." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
