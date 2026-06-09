@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🏊 "Swim lanes no Kanban: visualize gargalos antes que virem crises." — Anônimo</i>
+  <i>🔵 "Chaos monkey: o melhor QA é o que ataca a produção de forma controlada." — Netflix</i>
   <!-- QUOTE_END -->
 </div>
 
