@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🔵 "Chaos monkey: o melhor QA é o que ataca a produção de forma controlada." — Netflix</i>
+  <i>💾 "Data lake sem governança é pântano de dados." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
