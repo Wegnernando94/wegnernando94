@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>💾 "Data lake sem governança é pântano de dados." — Anônimo</i>
+  <i>🎲 "Testes exploratórios encontram o que testes roteirizados nunca imaginariam." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
