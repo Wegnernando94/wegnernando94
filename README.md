@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🎲 "Testes exploratórios encontram o que testes roteirizados nunca imaginariam." — Anônimo</i>
+  <i>🌊 "Service mesh: gerencie a comunicação entre serviços, não dentro deles." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
