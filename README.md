@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🌊 "Service mesh: gerencie a comunicação entre serviços, não dentro deles." — Anônimo</i>
+  <i>🔩 "Idempotência: execute quantas vezes quiser, o resultado é sempre o mesmo." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
