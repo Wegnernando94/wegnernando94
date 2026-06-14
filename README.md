@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🔩 "Idempotência: execute quantas vezes quiser, o resultado é sempre o mesmo." — Anônimo</i>
+  <i>🌺 "Product backlog sem priorização é lista de desejos sem orçamento." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
