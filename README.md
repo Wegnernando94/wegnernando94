@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🌺 "Product backlog sem priorização é lista de desejos sem orçamento." — Anônimo</i>
+  <i>🎭 "Shadow testing: teste em produção sem afetar produção." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
