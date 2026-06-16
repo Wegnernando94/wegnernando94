@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🎭 "Shadow testing: teste em produção sem afetar produção." — Anônimo</i>
+  <i>🧊 "Timeout é a resposta honesta quando você não sabe quando vai terminar." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
