@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🧊 "Timeout é a resposta honesta quando você não sabe quando vai terminar." — Anônimo</i>
+  <i>🎯 "Acceptance criteria é o contrato entre produto e engenharia." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
