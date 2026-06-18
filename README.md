@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🎯 "Acceptance criteria é o contrato entre produto e engenharia." — Anônimo</i>
+  <i>🦁 "Sênior não é quem sabe tudo, é quem sabe onde procurar e quando perguntar." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
