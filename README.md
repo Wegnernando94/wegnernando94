@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🦁 "Sênior não é quem sabe tudo, é quem sabe onde procurar e quando perguntar." — Anônimo</i>
+  <i>🔑 "Gestão de secrets: nunca no código, sempre no vault." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
