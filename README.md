@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🔑 "Gestão de secrets: nunca no código, sempre no vault." — Anônimo</i>
+  <i>🚀 "Trunk-based development: integre cedo, integre sempre, evite merges dolorosos." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
