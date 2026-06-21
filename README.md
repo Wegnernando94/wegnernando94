@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🚀 "Trunk-based development: integre cedo, integre sempre, evite merges dolorosos." — Anônimo</i>
+  <i>🌟 "Engenharia de confiabilidade é sobre errar com elegância." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
