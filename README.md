@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🌟 "Engenharia de confiabilidade é sobre errar com elegância." — Anônimo</i>
+  <i>🧠 "Sistemas complexos falham de formas complexas. Simplifique onde puder." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
