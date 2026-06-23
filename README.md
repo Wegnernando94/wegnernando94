@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🧠 "Sistemas complexos falham de formas complexas. Simplifique onde puder." — Anônimo</i>
+  <i>🎪 "Retrospectiva eficaz gera ação, não apenas conversa." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
