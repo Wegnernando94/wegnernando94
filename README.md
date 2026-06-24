@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🎪 "Retrospectiva eficaz gera ação, não apenas conversa." — Anônimo</i>
+  <i>🌍 "REST não é só GET e POST. É sobre recursos, estado e hipermídia." — Roy Fielding</i>
   <!-- QUOTE_END -->
 </div>
 
