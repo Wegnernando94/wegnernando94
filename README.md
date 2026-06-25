@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🌍 "REST não é só GET e POST. É sobre recursos, estado e hipermídia." — Roy Fielding</i>
+  <i>🏆 "O código mais seguro é o que nunca foi escrito." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
