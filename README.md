@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🏆 "O código mais seguro é o que nunca foi escrito." — Anônimo</i>
+  <i>💡 "Integração contínua sem build rápido é integração descontinuada na prática." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
