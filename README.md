@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>💡 "Integração contínua sem build rápido é integração descontinuada na prática." — Anônimo</i>
+  <i>🔭 "APM é o termômetro do sistema em produção." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
