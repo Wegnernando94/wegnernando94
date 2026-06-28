@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🔭 "APM é o termômetro do sistema em produção." — Anônimo</i>
+  <i>🌱 "Todo grande sistema começou como um pequeno script." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
