@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>⚡ "Caching resolve latência. Invalidação de cache resolve complexidade." — Anônimo</i>
+  <i>🎵 "Bons testes são especificações executáveis." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
