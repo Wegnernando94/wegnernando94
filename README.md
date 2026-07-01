@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🎵 "Bons testes são especificações executáveis." — Anônimo</i>
+  <i>🦋 "Código que não pode ser testado é código que não confia em si mesmo." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
