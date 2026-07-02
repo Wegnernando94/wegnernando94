@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🦋 "Código que não pode ser testado é código que não confia em si mesmo." — Anônimo</i>
+  <i>🌊 "Eventual consistency + idempotência = sistema distribuído resiliente." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
