@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🌊 "Eventual consistency + idempotência = sistema distribuído resiliente." — Anônimo</i>
+  <i>🔬 "Profiling revela verdades que o code review nunca vê." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
