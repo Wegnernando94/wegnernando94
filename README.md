@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🔬 "Profiling revela verdades que o code review nunca vê." — Anônimo</i>
+  <i>🏗️ "CQRS: separe leitura de escrita e escale cada uma no seu ritmo." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
