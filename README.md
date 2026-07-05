@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🏗️ "CQRS: separe leitura de escrita e escale cada uma no seu ritmo." — Anônimo</i>
+  <i>🎬 "Feature creep é o câncer silencioso do produto." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
