@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🎬 "Feature creep é o câncer silencioso do produto." — Anônimo</i>
+  <i>🌵 "On-call sem runbook é bombeiro sem mangueira." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
