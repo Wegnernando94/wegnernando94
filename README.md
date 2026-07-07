@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🌵 "On-call sem runbook é bombeiro sem mangueira." — Anônimo</i>
+  <i>🔮 "LLMs não pensam, reconhecem padrões em escala absurda." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
