@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🔮 "LLMs não pensam, reconhecem padrões em escala absurda." — Anônimo</i>
+  <i>🧬 "Shift left testing: mova os testes para onde os problemas são criados." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
