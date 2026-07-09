@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🧬 "Shift left testing: mova os testes para onde os problemas são criados." — Anônimo</i>
+  <i>🎸 "Pull request pequeno é pull request revisado." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
