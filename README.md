@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🎸 "Pull request pequeno é pull request revisado." — Anônimo</i>
+  <i>🏰 "Bulkhead pattern: isole falhas como compartimentos de um navio." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
