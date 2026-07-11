@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🏰 "Bulkhead pattern: isole falhas como compartimentos de um navio." — Anônimo</i>
+  <i>🌻 "SRE é o que acontece quando você pede para um engenheiro de software operar sistemas." — Google</i>
   <!-- QUOTE_END -->
 </div>
 
