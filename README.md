@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🌻 "SRE é o que acontece quando você pede para um engenheiro de software operar sistemas." — Google</i>
+  <i>🔴 "Alerta de falso positivo mata a atenção. Calibre seus alertas." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
