@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🔴 "Alerta de falso positivo mata a atenção. Calibre seus alertas." — Anônimo</i>
+  <i>🎠 "Pipeline como código: sua infraestrutura de entrega também merece versionamento." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
