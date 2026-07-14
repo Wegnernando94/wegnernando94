@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🎠 "Pipeline como código: sua infraestrutura de entrega também merece versionamento." — Anônimo</i>
+  <i>🌴 "Dependency injection: não construa suas dependências, receba-as." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
