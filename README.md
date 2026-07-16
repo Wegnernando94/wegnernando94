@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🧲 "Stakeholder satisfeito é aquele que recebe o que pediu e entende por que não é o que precisa." — Anônimo</i>
+  <i>🏔️ "Resiliência de sistema começa na resiliência da equipe." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
