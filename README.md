@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🏔️ "Resiliência de sistema começa na resiliência da equipe." — Anônimo</i>
+  <i>🎋 "Cada linha de código adicionada é responsabilidade futura de manutenção." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
