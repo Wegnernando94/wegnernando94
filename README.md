@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🎋 "Cada linha de código adicionada é responsabilidade futura de manutenção." — Anônimo</i>
+  <i>🦾 "Serverless não é sem servidor, é servidor que você não gerencia." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
