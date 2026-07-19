@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🦾 "Serverless não é sem servidor, é servidor que você não gerencia." — Anônimo</i>
+  <i>🌈 "Test pyramid: muitos unitários, menos integração, poucos E2E." — Mike Cohn</i>
   <!-- QUOTE_END -->
 </div>
 
