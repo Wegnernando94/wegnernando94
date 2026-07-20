@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🌈 "Test pyramid: muitos unitários, menos integração, poucos E2E." — Mike Cohn</i>
+  <i>🏊 "Swim or sink: software que não evolui afunda." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
