@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🏊 "Swim or sink: software que não evolui afunda." — Anônimo</i>
+  <i>🔵 "Blue ocean de tecnologia: resolva problemas que a concorrência ainda não viu." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
