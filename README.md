@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🔵 "Blue ocean de tecnologia: resolva problemas que a concorrência ainda não viu." — Anônimo</i>
+  <i>💾 "Schema migration sem rollback plan é aposta em produção." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
