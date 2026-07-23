@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>💾 "Schema migration sem rollback plan é aposta em produção." — Anônimo</i>
+  <i>🎲 "Fuzzing: deixe o caos revelar as falhas que sua imaginação não alcança." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
