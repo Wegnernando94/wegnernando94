@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🎲 "Fuzzing: deixe o caos revelar as falhas que sua imaginação não alcança." — Anônimo</i>
+  <i>🌊 "WebSockets para real-time. Polling para preguiçosos." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
