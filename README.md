@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🌊 "WebSockets para real-time. Polling para preguiçosos." — Anônimo</i>
+  <i>🔩 "Princípio da responsabilidade única: uma razão para mudar." — Robert C. Martin</i>
   <!-- QUOTE_END -->
 </div>
 
