@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🔩 "Princípio da responsabilidade única: uma razão para mudar." — Robert C. Martin</i>
+  <i>🌺 "Épico sem critérios de aceite é viagem sem destino." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
