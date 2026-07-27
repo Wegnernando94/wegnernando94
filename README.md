@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🌺 "Épico sem critérios de aceite é viagem sem destino." — Anônimo</i>
+  <i>🎭 "Canary release: deixe 1% dos usuários descobrir o bug antes de todos." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
