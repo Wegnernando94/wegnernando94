@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🎭 "Canary release: deixe 1% dos usuários descobrir o bug antes de todos." — Anônimo</i>
+  <i>🧊 "Rate limiting: proteja seus serviços dos seus próprios usuários." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
