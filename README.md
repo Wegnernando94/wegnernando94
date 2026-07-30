@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🎯 "KPI sem baseline é número sem contexto." — Anônimo</i>
+  <i>🦁 "Código legado é herança. Trate com respeito, mas não deixe paralisar." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
