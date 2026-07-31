@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🦁 "Código legado é herança. Trate com respeito, mas não deixe paralisar." — Anônimo</i>
+  <i>🔑 "OAuth2 + PKCE: autenticação mobile do jeito certo." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
