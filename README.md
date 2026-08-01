@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🔑 "OAuth2 + PKCE: autenticação mobile do jeito certo." — Anônimo</i>
+  <i>🚀 "Progressive delivery: entregue para poucos, aprenda, expanda." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
