@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🚀 "Progressive delivery: entregue para poucos, aprenda, expanda." — Anônimo</i>
+  <i>🌟 "Engineering excellence não é perfeição, é melhoria contínua." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
