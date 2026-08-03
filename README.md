@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🌟 "Engineering excellence não é perfeição, é melhoria contínua." — Anônimo</i>
+  <i>🧠 "Problema bem definido é problema meio resolvido." — Charles Kettering</i>
   <!-- QUOTE_END -->
 </div>
 
