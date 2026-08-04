@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🧠 "Problema bem definido é problema meio resolvido." — Charles Kettering</i>
+  <i>🎪 "Cerimônias ágeis sem propósito claro são burocracia com post-its." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
