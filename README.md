@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🎪 "Cerimônias ágeis sem propósito claro são burocracia com post-its." — Anônimo</i>
+  <i>🌍 "Open API specification: sua API fala por si mesma." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
