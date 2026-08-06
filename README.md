@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🌍 "Open API specification: sua API fala por si mesma." — Anônimo</i>
+  <i>🏆 "A arte do bom QA é encontrar bugs que o dev nunca imaginou escrever." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
