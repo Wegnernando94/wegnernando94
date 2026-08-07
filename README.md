@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🏆 "A arte do bom QA é encontrar bugs que o dev nunca imaginou escrever." — Anônimo</i>
+  <i>💡 "Logs estruturados são dados. Logs de texto são ruído." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
