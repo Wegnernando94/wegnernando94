@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>💡 "Logs estruturados são dados. Logs de texto são ruído." — Anônimo</i>
+  <i>🔭 "Distributed tracing: siga a requisição por todos os serviços até a verdade." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
