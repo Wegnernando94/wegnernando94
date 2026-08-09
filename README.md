@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🔭 "Distributed tracing: siga a requisição por todos os serviços até a verdade." — Anônimo</i>
+  <i>🌱 "Junior que faz perguntas cresce. Junior que finge entender estagna." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
