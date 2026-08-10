@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🌱 "Junior que faz perguntas cresce. Junior que finge entender estagna." — Anônimo</i>
+  <i>⚡ "React fast to failures. Learn faster from them." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
