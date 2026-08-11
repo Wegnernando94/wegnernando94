@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>⚡ "React fast to failures. Learn faster from them." — Anônimo</i>
+  <i>🎵 "Código limpo não precisa de comentário. Código confuso não merece comentário." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
