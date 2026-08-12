@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🎵 "Código limpo não precisa de comentário. Código confuso não merece comentário." — Anônimo</i>
+  <i>🦋 "Cada refatoração bem feita é uma dívida técnica paga." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
