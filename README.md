@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🦋 "Cada refatoração bem feita é uma dívida técnica paga." — Anônimo</i>
+  <i>🌊 "Event sourcing: o estado atual é a soma de todos os eventos passados." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
