@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🌊 "Event sourcing: o estado atual é a soma de todos os eventos passados." — Anônimo</i>
+  <i>🔬 "Security scanning no pipeline: encontre vulnerabilidades antes do atacante." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
