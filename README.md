@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🔬 "Security scanning no pipeline: encontre vulnerabilidades antes do atacante." — Anônimo</i>
+  <i>🏗️ "Twelve-factor app: manifesto para software moderno e portátil." — Heroku</i>
   <!-- QUOTE_END -->
 </div>
 
