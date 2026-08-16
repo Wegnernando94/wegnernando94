@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🏗️ "Twelve-factor app: manifesto para software moderno e portátil." — Heroku</i>
+  <i>🎬 "Dark launch: a feature existe, os usuários não sabem ainda." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
