@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🎬 "Dark launch: a feature existe, os usuários não sabem ainda." — Anônimo</i>
+  <i>🌵 "Postmortem blameless: foque no sistema, não no humano." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
