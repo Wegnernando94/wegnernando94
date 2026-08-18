@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🌵 "Postmortem blameless: foque no sistema, não no humano." — Anônimo</i>
+  <i>🔮 "Vector database: busca semântica é a nova busca por keyword." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
