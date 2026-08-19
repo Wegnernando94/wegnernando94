@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🔮 "Vector database: busca semântica é a nova busca por keyword." — Anônimo</i>
+  <i>🧬 "Continuous improvement: nunca está perfeito, sempre pode melhorar 1%." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
