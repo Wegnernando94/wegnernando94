@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🧬 "Continuous improvement: nunca está perfeito, sempre pode melhorar 1%." — Anônimo</i>
+  <i>🎸 "Dead code é peso morto. Delete com confiança se tem testes." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
