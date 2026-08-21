@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🎸 "Dead code é peso morto. Delete com confiança se tem testes." — Anônimo</i>
+  <i>🏰 "Circuit breaker: pare de tentar quando o sistema downstream está morto." — Michael Nygard</i>
   <!-- QUOTE_END -->
 </div>
 
