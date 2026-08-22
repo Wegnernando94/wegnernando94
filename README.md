@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🏰 "Circuit breaker: pare de tentar quando o sistema downstream está morto." — Michael Nygard</i>
+  <i>🌻 "Platform team: enablement primeiro, governance depois." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
