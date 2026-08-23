@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🌻 "Platform team: enablement primeiro, governance depois." — Anônimo</i>
+  <i>🔴 "P0 em produção: comunicação clara > solução perfeita." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
