@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🔴 "P0 em produção: comunicação clara > solução perfeita." — Anônimo</i>
+  <i>🎠 "ArgoCD + GitOps: o cluster aplica o que o Git manda." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
