@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🎠 "ArgoCD + GitOps: o cluster aplica o que o Git manda." — Anônimo</i>
+  <i>🌴 "SOLID: os cinco princípios que separam código de legado de código de qualidade." — Robert C. Martin</i>
   <!-- QUOTE_END -->
 </div>
 
