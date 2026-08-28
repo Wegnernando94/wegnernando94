@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🏔️ "Horizontal scaling funciona para stateless. Stateful é mais complicado." — Anônimo</i>
+  <i>🎋 "Código que funciona mas ninguém entende é bomba-relógio." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
