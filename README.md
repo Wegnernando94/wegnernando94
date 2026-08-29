@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🎋 "Código que funciona mas ninguém entende é bomba-relógio." — Anônimo</i>
+  <i>🦾 "MLOps: aplique DevOps para modelos de machine learning." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
