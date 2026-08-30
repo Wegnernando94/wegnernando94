@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🦾 "MLOps: aplique DevOps para modelos de machine learning." — Anônimo</i>
+  <i>🌈 "BDD: escreva cenários que o negócio entenda e o código execute." — Dan North</i>
   <!-- QUOTE_END -->
 </div>
 
