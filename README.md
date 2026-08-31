@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🌈 "BDD: escreva cenários que o negócio entenda e o código execute." — Dan North</i>
+  <i>🏊 "Nadar com dados: use analytics para decisões, não intuição." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
