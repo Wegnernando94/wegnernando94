@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🏊 "Nadar com dados: use analytics para decisões, não intuição." — Anônimo</i>
+  <i>🔵 "Blue team vs red team: ataque simulado, defesa real." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
