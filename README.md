@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🔵 "Blue team vs red team: ataque simulado, defesa real." — Anônimo</i>
+  <i>💾 "Backup testado é backup. Backup não testado é esperança." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
