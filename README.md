@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>💾 "Backup testado é backup. Backup não testado é esperança." — Anônimo</i>
+  <i>🎲 "Mutation testing: teste seus testes matando seu código." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
