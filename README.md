@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🎲 "Mutation testing: teste seus testes matando seu código." — Anônimo</i>
+  <i>🌊 "Saga pattern: transações distribuídas sem locks distribuídos." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
