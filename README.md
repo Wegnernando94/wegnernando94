@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🌊 "Saga pattern: transações distribuídas sem locks distribuídos." — Anônimo</i>
+  <i>🔩 "Interface segregation: não force implementações desnecessárias." — Robert C. Martin</i>
   <!-- QUOTE_END -->
 </div>
 
