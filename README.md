@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🔩 "Interface segregation: não force implementações desnecessárias." — Robert C. Martin</i>
+  <i>🌺 "Story map: visualize a jornada antes de fatiar em sprints." — Jeff Patton</i>
   <!-- QUOTE_END -->
 </div>
 
