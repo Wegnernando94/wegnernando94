@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🌺 "Story map: visualize a jornada antes de fatiar em sprints." — Jeff Patton</i>
+  <i>🎭 "Feature toggle: ligue e desligue funcionalidades sem deploy." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
