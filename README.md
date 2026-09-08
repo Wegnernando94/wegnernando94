@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🎭 "Feature toggle: ligue e desligue funcionalidades sem deploy." — Anônimo</i>
+  <i>🧊 "Graceful degradation: quando partes falham, o todo ainda funciona." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
