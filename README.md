@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🧊 "Graceful degradation: quando partes falham, o todo ainda funciona." — Anônimo</i>
+  <i>🎯 "Definition of Done é o contrato de qualidade do time." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
