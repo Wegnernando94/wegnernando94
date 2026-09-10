@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🎯 "Definition of Done é o contrato de qualidade do time." — Anônimo</i>
+  <i>🦁 "Tech lead que não codifica perde o contexto. Perde o contexto, perde a liderança." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
