@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🔑 "JWT sem expiração é chave sem fechadura." — Anônimo</i>
+  <i>🚀 "Deploy contínuo é confiança automatizada." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
