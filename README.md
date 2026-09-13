@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🚀 "Deploy contínuo é confiança automatizada." — Anônimo</i>
+  <i>🌟 "Engenharia é sobre trade-offs, não sobre soluções perfeitas." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
