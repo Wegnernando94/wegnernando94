@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🌟 "Engenharia é sobre trade-offs, não sobre soluções perfeitas." — Anônimo</i>
+  <i>🧠 "Conway's Law: sistemas espelham a estrutura de comunicação das organizações." — Melvin Conway</i>
   <!-- QUOTE_END -->
 </div>
 
