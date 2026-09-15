@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🧠 "Conway's Law: sistemas espelham a estrutura de comunicação das organizações." — Melvin Conway</i>
+  <i>🎪 "Velocity de time não é produtividade individual somada." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
