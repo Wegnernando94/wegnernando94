@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🎪 "Velocity de time não é produtividade individual somada." — Anônimo</i>
+  <i>🌍 "SDK bem documentado é produto. SDK mal documentado é obstáculo." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
