@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🌍 "SDK bem documentado é produto. SDK mal documentado é obstáculo." — Anônimo</i>
+  <i>🏆 "O melhor teste de segurança é o que o atacante nunca esperava que você fizesse." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
