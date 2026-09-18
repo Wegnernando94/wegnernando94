@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🏆 "O melhor teste de segurança é o que o atacante nunca esperava que você fizesse." — Anônimo</i>
+  <i>💡 "Métricas de negócio > métricas de engenharia. Alinhe os dois." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
