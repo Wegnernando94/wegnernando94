@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>💡 "Métricas de negócio > métricas de engenharia. Alinhe os dois." — Anônimo</i>
+  <i>🔭 "End-to-end observability: veja a jornada completa do usuário no sistema." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
