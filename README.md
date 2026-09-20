@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🔭 "End-to-end observability: veja a jornada completa do usuário no sistema." — Anônimo</i>
+  <i>🌱 "Cultura de aprendizado: erro é dado, não punição." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
