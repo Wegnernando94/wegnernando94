@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🌱 "Cultura de aprendizado: erro é dado, não punição." — Anônimo</i>
+  <i>⚡ "TTFB baixo: a primeira impressão do seu servidor." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
