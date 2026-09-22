@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>⚡ "TTFB baixo: a primeira impressão do seu servidor." — Anônimo</i>
+  <i>🎵 "Design patterns são vocabulário, não receita." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
