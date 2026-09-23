@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🎵 "Design patterns são vocabulário, não receita." — Anônimo</i>
+  <i>🦋 "Strangler fig pattern: modernize o legado sem reescrever tudo de uma vez." — Martin Fowler</i>
   <!-- QUOTE_END -->
 </div>
 
