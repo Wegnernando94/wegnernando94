@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🦋 "Strangler fig pattern: modernize o legado sem reescrever tudo de uma vez." — Martin Fowler</i>
+  <i>🌊 "CRDT: dados que convergem mesmo sem coordenação central." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
