@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🌊 "CRDT: dados que convergem mesmo sem coordenação central." — Anônimo</i>
+  <i>🔬 "DAST vs SAST: teste dinâmico e estático são complementares, não excludentes." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
