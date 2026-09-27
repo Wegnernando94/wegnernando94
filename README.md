@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🏗️ "Hexagonal architecture: isole o domínio do mundo externo." — Alistair Cockburn</i>
+  <i>🎬 "Release notes são o changelog que o usuário lê." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
