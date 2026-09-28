@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🎬 "Release notes são o changelog que o usuário lê." — Anônimo</i>
+  <i>🌵 "Runbook automatizado é o próximo passo do runbook manual." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
