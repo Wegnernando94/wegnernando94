@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🌵 "Runbook automatizado é o próximo passo do runbook manual." — Anônimo</i>
+  <i>🔮 "Prompt engineering é a nova arte de fazer a máquina entender você." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
