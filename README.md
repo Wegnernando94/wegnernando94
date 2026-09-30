@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🔮 "Prompt engineering é a nova arte de fazer a máquina entender você." — Anônimo</i>
+  <i>🧬 "Inner source: aplique práticas open source dentro da empresa." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
