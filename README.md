@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🧬 "Inner source: aplique práticas open source dentro da empresa." — Anônimo</i>
+  <i>🎸 "Mob programming: o time inteiro em um problema ao mesmo tempo." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
