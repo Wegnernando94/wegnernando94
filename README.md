@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🎸 "Mob programming: o time inteiro em um problema ao mesmo tempo." — Anônimo</i>
+  <i>🏰 "Retry com exponential backoff: persista sem afogar o sistema downstream." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
