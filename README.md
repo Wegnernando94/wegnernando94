@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🏰 "Retry com exponential backoff: persista sem afogar o sistema downstream." — Anônimo</i>
+  <i>🌻 "Developer portal: o shopping center das plataformas internas." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
