@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🌻 "Developer portal: o shopping center das plataformas internas." — Anônimo</i>
+  <i>🔴 "Severity vs priority: urgência não é sempre importância." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
