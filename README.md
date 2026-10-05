@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🔴 "Severity vs priority: urgência não é sempre importância." — Anônimo</i>
+  <i>🎠 "Helm charts: empacote sua aplicação Kubernetes." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
