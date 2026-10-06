@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🎠 "Helm charts: empacote sua aplicação Kubernetes." — Anônimo</i>
+  <i>🌴 "Liskov substitution: subtipos devem ser substituíveis por seus tipos base." — Barbara Liskov</i>
   <!-- QUOTE_END -->
 </div>
 
