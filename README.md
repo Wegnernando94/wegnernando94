@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🌴 "Liskov substitution: subtipos devem ser substituíveis por seus tipos base." — Barbara Liskov</i>
+  <i>🧲 "Inner feedback loop rápido = desenvolvedor feliz e produtivo." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
