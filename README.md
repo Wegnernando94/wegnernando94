@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🧲 "Inner feedback loop rápido = desenvolvedor feliz e produtivo." — Anônimo</i>
+  <i>🏔️ "Multi-region deployment: latência baixa globalmente ou disponibilidade global?" — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
