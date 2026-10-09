@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🏔️ "Multi-region deployment: latência baixa globalmente ou disponibilidade global?" — Anônimo</i>
+  <i>🎋 "Comentário que explica O QUÊ o código faz é redundante. Explique O PORQUÊ." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
