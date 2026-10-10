@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🎋 "Comentário que explica O QUÊ o código faz é redundante. Explique O PORQUÊ." — Anônimo</i>
+  <i>🦾 "AutoML não elimina o cientista de dados. Elimina o trabalho chato." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
