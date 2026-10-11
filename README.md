@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🦾 "AutoML não elimina o cientista de dados. Elimina o trabalho chato." — Anônimo</i>
+  <i>🌈 "Contract testing: integração sem dependência de ambiente compartilhado." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
