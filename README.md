@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🌈 "Contract testing: integração sem dependência de ambiente compartilhado." — Anônimo</i>
+  <i>🏊 "Technical excellence sem entrega de valor é masturbação intelectual." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
