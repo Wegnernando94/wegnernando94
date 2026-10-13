@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🏊 "Technical excellence sem entrega de valor é masturbação intelectual." — Anônimo</i>
+  <i>🔵 "Penetration testing: encontre as brechas antes que o atacante as encontre." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
