@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🔵 "Penetration testing: encontre as brechas antes que o atacante as encontre." — Anônimo</i>
+  <i>💾 "Data mesh: trate dados como produto, com dono e qualidade garantida." — Zhamak Dehghani</i>
   <!-- QUOTE_END -->
 </div>
 
