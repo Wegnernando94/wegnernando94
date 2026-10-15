@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>💾 "Data mesh: trate dados como produto, com dono e qualidade garantida." — Zhamak Dehghani</i>
+  <i>🎲 "Property-based testing: gere milhares de casos que você nunca escreveria manualmente." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
