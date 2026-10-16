@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🎲 "Property-based testing: gere milhares de casos que você nunca escreveria manualmente." — Anônimo</i>
+  <i>🌊 "Reactive systems: responsivos, resilientes, elásticos e orientados a mensagem." — Reactive Manifesto</i>
   <!-- QUOTE_END -->
 </div>
 
