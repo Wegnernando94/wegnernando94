@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🌊 "Reactive systems: responsivos, resilientes, elásticos e orientados a mensagem." — Reactive Manifesto</i>
+  <i>🔩 "Open/Closed principle: aberto para extensão, fechado para modificação." — Bertrand Meyer</i>
   <!-- QUOTE_END -->
 </div>
 
