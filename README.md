@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🔩 "Open/Closed principle: aberto para extensão, fechado para modificação." — Bertrand Meyer</i>
+  <i>🌺 "User story mapping revela gaps que o backlog plano esconde." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
