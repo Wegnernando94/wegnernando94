@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🌺 "User story mapping revela gaps que o backlog plano esconde." — Anônimo</i>
+  <i>🎭 "A/B test sem significância estatística é coinflip com dashboard." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
