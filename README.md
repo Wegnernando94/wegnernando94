@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🎭 "A/B test sem significância estatística é coinflip com dashboard." — Anônimo</i>
+  <i>🧊 "Dead letter queue: os erros que você não pode ignorar, mas não pode processar agora." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
