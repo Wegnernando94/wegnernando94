@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🧊 "Dead letter queue: os erros que você não pode ignorar, mas não pode processar agora." — Anônimo</i>
+  <i>🎯 "Threshold de cobertura de testes: piso, não teto." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
