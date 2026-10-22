@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🎯 "Threshold de cobertura de testes: piso, não teto." — Anônimo</i>
+  <i>🦁 "Liderança por contexto, não por controle." — Netflix Culture</i>
   <!-- QUOTE_END -->
 </div>
 
