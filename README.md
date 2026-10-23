@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🦁 "Liderança por contexto, não por controle." — Netflix Culture</i>
+  <i>🔑 "mTLS: ambos os lados provam quem são." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
