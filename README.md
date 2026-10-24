@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🔑 "mTLS: ambos os lados provam quem são." — Anônimo</i>
+  <i>🚀 "Internal developer platform: a alavanca de produtividade da engenharia." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
