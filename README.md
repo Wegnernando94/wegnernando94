@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🚀 "Internal developer platform: a alavanca de produtividade da engenharia." — Anônimo</i>
+  <i>🌟 "Qualidade não é departamento, é mentalidade." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
