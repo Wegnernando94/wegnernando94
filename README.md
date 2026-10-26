@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🌟 "Qualidade não é departamento, é mentalidade." — Anônimo</i>
+  <i>🧠 "Feedback loop rápido é o coração do desenvolvimento ágil." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
