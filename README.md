@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🧠 "Feedback loop rápido é o coração do desenvolvimento ágil." — Anônimo</i>
+  <i>🎪 "PI Planning: alinhe trens ágeis antes de soltar na trilha." — SAFe</i>
   <!-- QUOTE_END -->
 </div>
 
