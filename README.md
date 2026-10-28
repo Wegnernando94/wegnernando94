@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🎪 "PI Planning: alinhe trens ágeis antes de soltar na trilha." — SAFe</i>
+  <i>🌍 "Semantic versioning é comunicação de impacto de mudança." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
