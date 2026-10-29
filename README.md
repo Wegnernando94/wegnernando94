@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🌍 "Semantic versioning é comunicação de impacto de mudança." — Anônimo</i>
+  <i>🏆 "Automação de testes é investimento. Teste manual é custo recorrente." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
