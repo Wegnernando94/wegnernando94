@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🏆 "Automação de testes é investimento. Teste manual é custo recorrente." — Anônimo</i>
+  <i>💡 "Não existe bala de prata em engenharia de software." — Fred Brooks</i>
   <!-- QUOTE_END -->
 </div>
 
