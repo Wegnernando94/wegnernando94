@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>💡 "Não existe bala de prata em engenharia de software." — Fred Brooks</i>
+  <i>🔭 "SLO breach antes de virar SLA breach: monitore o buffer." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
