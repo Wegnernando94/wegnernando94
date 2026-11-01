@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🔭 "SLO breach antes de virar SLA breach: monitore o buffer." — Anônimo</i>
+  <i>🌱 "Conhecimento compartilhado é o único ativo que cresce ao ser distribuído." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
