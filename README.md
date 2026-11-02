@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🌱 "Conhecimento compartilhado é o único ativo que cresce ao ser distribuído." — Anônimo</i>
+  <i>⚡ "Core Web Vitals: Google usa UX como critério de ranking. Você usa?" — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
