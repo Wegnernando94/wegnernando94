@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>⚡ "Core Web Vitals: Google usa UX como critério de ranking. Você usa?" — Anônimo</i>
+  <i>🎵 "Naming é a arte mais difícil da programação." — Phil Karlton</i>
   <!-- QUOTE_END -->
 </div>
 
