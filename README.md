@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🎵 "Naming é a arte mais difícil da programação." — Phil Karlton</i>
+  <i>🦋 "Incremental delivery: entregue valor cedo e frequentemente." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
