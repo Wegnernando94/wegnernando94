@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🦋 "Incremental delivery: entregue valor cedo e frequentemente." — Anônimo</i>
+  <i>🌊 "Polyglot persistence: use o banco certo para cada tipo de dado." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
