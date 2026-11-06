@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🌊 "Polyglot persistence: use o banco certo para cada tipo de dado." — Anônimo</i>
+  <i>🔬 "SBOM: saiba exatamente o que está rodando no seu software." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
