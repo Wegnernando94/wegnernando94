@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🏗️ "Clean architecture: dependências apontam para dentro, nunca para fora." — Robert C. Martin</i>
+  <i>🎬 "Feature flag rollout: controle quem vê o que e quando." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
