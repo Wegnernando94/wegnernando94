@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🌵 "Disaster recovery plan não testado é plano de otimismo." — Anônimo</i>
+  <i>🔮 "Embeddings: transforme texto em geometria para que máquinas entendam semântica." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
