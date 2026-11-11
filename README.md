@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🔮 "Embeddings: transforme texto em geometria para que máquinas entendam semântica." — Anônimo</i>
+  <i>🧬 "Value stream mapping: visualize onde o tempo é desperdiçado no seu processo." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
