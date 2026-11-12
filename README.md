@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🧬 "Value stream mapping: visualize onde o tempo é desperdiçado no seu processo." — Anônimo</i>
+  <i>🎸 "Specification by example: exemplos concretos como documentação viva." — Gojko Adzic</i>
   <!-- QUOTE_END -->
 </div>
 
