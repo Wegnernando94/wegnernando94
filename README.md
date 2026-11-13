@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🎸 "Specification by example: exemplos concretos como documentação viva." — Gojko Adzic</i>
+  <i>🏰 "Outbox pattern: garanta que eventos sejam publicados mesmo se o sistema cair." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
