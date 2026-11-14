@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🏰 "Outbox pattern: garanta que eventos sejam publicados mesmo se o sistema cair." — Anônimo</i>
+  <i>🌻 "Team topology: estruture times para otimizar fluxo de entrega." — Matthew Skelton</i>
   <!-- QUOTE_END -->
 </div>
 
