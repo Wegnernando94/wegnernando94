@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🌻 "Team topology: estruture times para otimizar fluxo de entrega." — Matthew Skelton</i>
+  <i>🔴 "MTTR baixo é mais valioso que MTBF alto." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
