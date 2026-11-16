@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🔴 "MTTR baixo é mais valioso que MTBF alto." — Anônimo</i>
+  <i>🎠 "Flux/GitOps: o repositório é a fonte da verdade do cluster." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
