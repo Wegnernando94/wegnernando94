@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🎠 "Flux/GitOps: o repositório é a fonte da verdade do cluster." — Anônimo</i>
+  <i>🌴 "Dependency inversion: dependa de abstrações, não de implementações." — Robert C. Martin</i>
   <!-- QUOTE_END -->
 </div>
 
