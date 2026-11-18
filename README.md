@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🌴 "Dependency inversion: dependa de abstrações, não de implementações." — Robert C. Martin</i>
+  <i>🧲 "API gateway: o porteiro inteligente dos seus microsserviços." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
