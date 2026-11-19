@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🧲 "API gateway: o porteiro inteligente dos seus microsserviços." — Anônimo</i>
+  <i>🏔️ "Latency percentiles: P99 revela a dor que a média esconde." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
