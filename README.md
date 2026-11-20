@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🏔️ "Latency percentiles: P99 revela a dor que a média esconde." — Anônimo</i>
+  <i>🎋 "Coupling baixo, coesão alta: a receita do bom design." — Larry Constantine</i>
   <!-- QUOTE_END -->
 </div>
 
