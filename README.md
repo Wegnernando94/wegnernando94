@@ -287,7 +287,7 @@ const fernando: QAEngineer = {
 
 <p align="center">
   <a href="https://open.spotify.com/user/wegnernando" target="_blank">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=wegnernando&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=false" alt="Ouvindo Agora no Spotify"/>
+    <img src="./spotify-card.svg" alt="Ouvindo Agora no Spotify"/>
   </a>
 </p>
 
