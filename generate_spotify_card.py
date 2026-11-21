@@ -28,6 +28,16 @@ def get_playback():
     client_secret = os.environ.get("SPOTIFY_CLIENT_SECRET")
     refresh_token = os.environ.get("SPOTIFY_REFRESH_TOKEN")
     if not all((client_id, client_secret, refresh_token)):
+        missing = [
+            name
+            for name, value in (
+                ("SPOTIFY_CLIENT_ID", client_id),
+                ("SPOTIFY_CLIENT_SECRET/SPOTIFY_SECRET_ID", client_secret),
+                ("SPOTIFY_REFRESH_TOKEN/SPOTIFY_REFRESH", refresh_token),
+            )
+            if not value
+        ]
+        print("Credenciais ausentes: " + ", ".join(missing))
         return None
 
     credentials = urllib.parse.urlencode({
