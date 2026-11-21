@@ -350,7 +350,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🎋 "Coupling baixo, coesão alta: a receita do bom design." — Larry Constantine</i>
+  <i>🦾 "FinOps: otimize custo cloud sem sacrificar performance." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
