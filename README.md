@@ -281,17 +281,6 @@ const fernando: QAEngineer = {
   <img src="https://raw.githubusercontent.com/Wegnernando94/wegnernando94/output/github-contribution-grid-snake.gif" alt="Snake animation"/>
 </p>
 
----
-
-## 🎵 Spotify — Ouvindo Agora
-
-<p align="center">
-  <a href="https://open.spotify.com/user/wegnernando" target="_blank">
-    <img src="./spotify-card.svg" alt="Ouvindo Agora no Spotify"/>
-  </a>
-</p>
-
----
 
 ## 🎓 Formação Acadêmica
 
