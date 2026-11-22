@@ -339,7 +339,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🦾 "FinOps: otimize custo cloud sem sacrificar performance." — Anônimo</i>
+  <i>🌈 "Approval testing: snapshot do comportamento esperado." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
