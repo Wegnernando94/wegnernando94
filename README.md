@@ -339,7 +339,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🌈 "Approval testing: snapshot do comportamento esperado." — Anônimo</i>
+  <i>🏊 "Continuous learning é o único antídoto para a obsolescência técnica." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
