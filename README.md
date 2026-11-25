@@ -339,7 +339,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🔵 "Threat modeling: pense como atacante antes de construir a defesa." — Anônimo</i>
+  <i>💾 "ACID vs BASE: escolha conforme o que você não pode perder." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
