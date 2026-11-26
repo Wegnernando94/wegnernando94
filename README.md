@@ -339,7 +339,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>💾 "ACID vs BASE: escolha conforme o que você não pode perder." — Anônimo</i>
+  <i>🎲 "Load testing revela o teto. Stress testing revela o ponto de ruptura." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
