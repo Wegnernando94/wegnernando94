@@ -339,7 +339,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🎲 "Load testing revela o teto. Stress testing revela o ponto de ruptura." — Anônimo</i>
+  <i>🌊 "CQRS + Event Sourcing: auditoria completa de graça." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
