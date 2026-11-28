@@ -339,7 +339,7 @@ const fernando: QAEngineer = {
 
 <div align="center">
   <!-- QUOTE_START -->
-  <i>🌊 "CQRS + Event Sourcing: auditoria completa de graça." — Anônimo</i>
+  <i>🔩 "Principle of least astonishment: faça o que o usuário espera." — Anônimo</i>
   <!-- QUOTE_END -->
 </div>
 
